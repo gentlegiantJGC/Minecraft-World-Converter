@@ -1,0 +1,46 @@
+{
+	"minecraft:air": {
+		"id": 0,
+		"data": 0
+	},
+	"minecraft:dandelion": {
+		"id": 37,
+		"data": 0
+	},
+	"minecraft:poppy": {
+		"id": 38,
+		"data": 0
+	},
+	"minecraft:blue_orchid": {
+		"id": 38,
+		"data": 1
+	},
+	"minecraft:allium": {
+		"id": 38,
+		"data": 2
+	},
+	"minecraft:azure_bluet": {
+		"id": 38,
+		"data": 3
+	},
+	"minecraft:red_tulip": {
+		"id": 38,
+		"data": 4
+	},
+	"minecraft:orange_tulip": {
+		"id": 38,
+		"data": 5
+	},
+	"minecraft:white_tulip": {
+		"id": 38,
+		"data": 6
+	},
+	"minecraft:pink_tulip": {
+		"id": 38,
+		"data": 7
+	},
+	"minecraft:oxeye_daisy": {
+		"id": 38,
+		"data": 8
+	}
+}
