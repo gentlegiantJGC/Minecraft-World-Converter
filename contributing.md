@@ -1,2 +1,2 @@
-#Contributing
+# Contributing
 If you would like to contribute to this project you can either create a pull request with the code you wish to modify and it will be considered for addition or submit a bug report detailing the issue and it will get looked into
