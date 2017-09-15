@@ -21,10 +21,13 @@
 	"minecraft:mob_spawner": "minecraft:mob_spawner",
 	"minecraft:noteblock": "minecraft:noteblock",
 	"minecraft:piston": "minecraft:piston",
+	"minecraft:pistonarmcollision" : "minecraft:piston_head",		
+	"minecraft:piston_extension" : "minecraft:piston_extension",
 	"minecraft:sign": "minecraft:sign",
 	"minecraft:skull": "minecraft:skull",
 	"minecraft:structure_block": "minecraft:structure_block",
 	"minecraft:shulker_box": "minecraft:shulker_box",
+	"minecraft:trapped_chest": "minecraft:trapped_chest",
 	"minecraft:chalk_board_block": null,
 	"minecraft:nether_reactor": null,
 }

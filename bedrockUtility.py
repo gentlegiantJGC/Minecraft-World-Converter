@@ -33,7 +33,7 @@ itemFromIntermediate = {}
 itemFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/intermediate_bedrock.json'))
 
 requiresBlockEntity = {}
-requiresBlockEntity['PE'] = [26,54,146]
+requiresBlockEntity['PE'] = [26,29,33,54,146]
 requiresBlockEntity['PC'] = []
 
 
@@ -347,6 +347,36 @@ def createBlockEntity(chunk, convertTo, block, x, y, z):
 			te = TAG_Compound()
 			te["color"] = TAG_Byte(14)
 			te["id"] = TAG_String(u'Bed')
+			te["x"] = TAG_Int(x)
+			te["y"] = TAG_Int(y)
+			te["z"] = TAG_Int(z)
+			chunk.addTileEntity(te)
+		elif block == 29:		
+			te = TAG_Compound()		
+			te["AttachedBlocks"] = TAG_List()		
+			te["BreakBlocks"] = TAG_List()		
+			te["id"] = TAG_String(u'PistonArm')		
+			te["isMovable"] = TAG_Byte(1)		
+			te["LastProgress"] = TAG_Float()		
+			te["NewState"] = TAG_Byte()		
+			te["Progress"] = TAG_Float()		
+			te["State"] = TAG_Byte()		
+			te["Sticky"] = TAG_Byte(1)		
+			te["x"] = TAG_Int(x)		
+			te["y"] = TAG_Int(y)		
+			te["z"] = TAG_Int(z)		
+			chunk.addTileEntity(te)
+		elif block == 33:		
+			te = TAG_Compound()		
+			te["AttachedBlocks"] = TAG_List()		
+			te["BreakBlocks"] = TAG_List()		
+			te["id"] = TAG_String(u'PistonArm')		
+			te["isMovable"] = TAG_Byte(1)		
+			te["LastProgress"] = TAG_Float()		
+			te["NewState"] = TAG_Byte()		
+			te["Progress"] = TAG_Float()		
+			te["State"] = TAG_Byte()		
+			te["Sticky"] = TAG_Byte(0)		
 			te["x"] = TAG_Int(x)
 			te["y"] = TAG_Int(y)
 			te["z"] = TAG_Int(z)
