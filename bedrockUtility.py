@@ -343,6 +343,7 @@ def convertBlockEntity(convertFrom, convertTo, te):
 		
 def createBlockEntity(chunk, convertTo, block, x, y, z):
 	if convertTo == 'PE':
+		# bed block
 		if block == 26:
 			te = TAG_Compound()
 			te["color"] = TAG_Byte(14)
@@ -351,6 +352,7 @@ def createBlockEntity(chunk, convertTo, block, x, y, z):
 			te["y"] = TAG_Int(y)
 			te["z"] = TAG_Int(z)
 			chunk.addTileEntity(te)
+		# sticky piston
 		elif block == 29:		
 			te = TAG_Compound()		
 			te["AttachedBlocks"] = TAG_List()		
@@ -366,6 +368,7 @@ def createBlockEntity(chunk, convertTo, block, x, y, z):
 			te["y"] = TAG_Int(y)		
 			te["z"] = TAG_Int(z)		
 			chunk.addTileEntity(te)
+		# normal piston
 		elif block == 33:		
 			te = TAG_Compound()		
 			te["AttachedBlocks"] = TAG_List()		
@@ -381,6 +384,7 @@ def createBlockEntity(chunk, convertTo, block, x, y, z):
 			te["y"] = TAG_Int(y)
 			te["z"] = TAG_Int(z)
 			chunk.addTileEntity(te)
+		# chests
 		elif block in [54,146]:
 			te = TAG_Compound()
 			te["Items"] = TAG_List()
