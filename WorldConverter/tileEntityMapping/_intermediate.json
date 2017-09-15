@@ -67,16 +67,8 @@
 	"Music": "minecraft:noteblock",
 	"piston": "minecraft:piston",
 	"minecraft:piston": "minecraft:piston",
-	"minecraft:piston": "minecraft:piston",
-	"piston_head": "minecraft:piston_head",		
-	"Piston Head": "minecraft:piston_head",		
-	"minecraft:piston_head": "minecraft:piston_head",		
-	"minecraft:pistonarmcollision": "minecraft:pistonarmcollision",		
-	"PistonArm": "minecraft:pistonarmcollision",		
-	"piston_extension": "minecraft:piston_extension",		
-	"Piston Extension": "minecraft:piston_extension",		
-	"minecraft:piston_extension": "minecraft:piston_extension",		
-	"movingblock": "minecraft:movingblock",
+	"PistonArm": "minecraft:piston_arm",
+	"MovingBlock": "minecraft:moving_block",	
 	"sign": "minecraft:sign",
 	"minecraft:sign": "minecraft:sign",
 	"Sign": "minecraft:sign",
@@ -93,7 +85,6 @@
 	"minecraft:trapped_chest": "minecraft:trapped_chest",		
 	"Trap": "minecraft:trapped_chest",		
 	"Trapped Chest": "minecraft:trapped_chest",
-
 	"ChalkboardBlock": "minecraft:chalk_board_block",
 	"NetherReactor": "minecraft:nether_reactor"
 }
