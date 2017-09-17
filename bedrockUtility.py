@@ -18,19 +18,23 @@ import mcplatform
 import traceback
 blockToIntermediate = {}
 blockToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/java_intermediate.json'))
+blockToIntermediate['PC'] = {}							  
 # add json mappings here for the other versions
 blockFromIntermediate = {}
 blockFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/intermediate_bedrock.json'))
+blockFromIntermediate['PC'] = {}
 # add json mappings here for the other versions
 
 blockEntityToIntermediate = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/_intermediate.json'))
 blockEntityFromIntermediate = {}
 blockEntityFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_bedrock.json'))
-
+blockEntityFromIntermediate['PC'] = {}
 itemToIntermediate = {}
 itemToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/java_intermediate.json'))
+itemToIntermediate['PC'] = {}							 
 itemFromIntermediate = {}
 itemFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/intermediate_bedrock.json'))
+itemFromIntermediate['PC'] = {}
 
 requiresBlockEntity = {}
 requiresBlockEntity['PE'] = [26,29,33,54,146]
@@ -82,7 +86,17 @@ def perform(level, box, options):
 	# levelNew.close()
 	
 	
+ 
+	# needs cleaning up (ideally idenfifying map by actual map type rather than user input?)
+	# or just merge these into one since it is a bit redunent at this point
 	if convertFrom == 'PC':
+		filePath = None
+		filePath = mcplatform.askOpenFile(title="Select a PC world to read from", schematics=False)
+		if filePath is not None:
+			levelOld = mclevel.fromFile(filePath)
+		else:
+			raise Exception('no file given')
+	elif convertFrom == 'PE':
 		filePath = None
 		filePath = mcplatform.askOpenFile(title="Select a PC world to read from", schematics=False)
 		if filePath is not None:
@@ -214,28 +228,29 @@ def generateChunk(level, generateBase, cx, cz, y, flatworldIDs=[]):
 			raise Exception()
 	# terrain tag in the format (version x1, blocks (air) x4096, block data x4096*0.5, sky light x4096*0.5, block light x4096*0.5)
 
-	# for every chunk up to the top of the selection box
-	for i in range(y+1):
-		# if the sub-chunk does not already exist
-		if i not in chunk.subchunks:
-			if type(flatworldIDs) is not list:
-				raise Exception('flatworldIDs must be a list of block ids')
-			if len(flatworldIDs) < i*16+1:
-				blockIDsChunk = [0]*16
-			elif len(flatworldIDs) > (i+1)*16:
-				blockIDsChunk = flatworldIDs[i*16:(i+1)*16]
-			else:
-				blockIDsChunk = flatworldIDs[i*16:] + [0] * (16 - (len(flatworldIDs) - i*16))
-				
-			if len(blockIDsChunk) != 16:
-				raise Exception('blockIDsChunk not the right size')
-			blocks = ''.join([chr(block) for block in blockIDsChunk])
-			terrain = chunk.version
-			for _ in range(256):
-				terrain += blocks
-			terrain += '\x00'*2048+'\x00'*2048+'\x00'*2048
-			# create it with the terrain value created earlier
-			chunk.add_data(terrain=terrain, subchunk=i)
+	if level.gameVersion == 'PE':
+		# for every chunk up to the top of the selection box
+		for i in range(y+1):
+			# if the sub-chunk does not already exist
+			if i not in chunk.subchunks:
+				if type(flatworldIDs) is not list:
+					raise Exception('flatworldIDs must be a list of block ids')
+				if len(flatworldIDs) < i*16+1:
+					blockIDsChunk = [0]*16
+				elif len(flatworldIDs) > (i+1)*16:
+					blockIDsChunk = flatworldIDs[i*16:(i+1)*16]
+				else:
+					blockIDsChunk = flatworldIDs[i*16:] + [0] * (16 - (len(flatworldIDs) - i*16))
+					
+				if len(blockIDsChunk) != 16:
+					raise Exception('blockIDsChunk not the right size')
+				blocks = ''.join([chr(block) for block in blockIDsChunk])
+				terrain = chunk.version
+				for _ in range(256):
+					terrain += blocks
+				terrain += '\x00'*2048+'\x00'*2048+'\x00'*2048
+				# create it with the terrain value created earlier
+				chunk.add_data(terrain=terrain, subchunk=i)
 	# tell MCedit the chunk has changed
 	chunk.dirty = True
 	
