@@ -1,6 +1,9 @@
 displayName = "World Converter"
+version = "1.0.0"
+#add version checking and updating code
 
 inputs = (
+	("Convert", ("World")),
 	("Convert From",("PC","PE")),
 	("Convert To",("PE","PC")),
 )
