@@ -1,11 +1,11 @@
 displayName = "World Converter"
-version = "1.0.0"
+filter_version = "1.0.0"
 #add version checking and updating code
 
 inputs = (
-	("Convert", ("World")),
 	("Convert From",("PC","PE")),
 	("Convert To",("PE","PC")),
+	("Biomes", (True)),
 )
 
 import json
@@ -18,94 +18,82 @@ from pymclevel import leveldbpocket
 from pymclevel import mclevel
 from pymclevel.leveldbpocket import PocketLeveldbWorld
 import mcplatform
-import traceback
+
 blockToIntermediate = {}
 blockToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/java_intermediate.json'))
-blockToIntermediate['PC'] = {}							  
+blockToIntermediate['PE'] = {}							  
 # add json mappings here for the other versions
 blockFromIntermediate = {}
-blockFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/intermediate_bedrock.json'))
 blockFromIntermediate['PC'] = {}
+blockFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/intermediate_bedrock.json'))
 # add json mappings here for the other versions
 
 blockEntityToIntermediate = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/_intermediate.json'))
+
 blockEntityFromIntermediate = {}
-blockEntityFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_bedrock.json'))
 blockEntityFromIntermediate['PC'] = {}
+blockEntityFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_bedrock.json'))
+
 itemToIntermediate = {}
 itemToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/java_intermediate.json'))
-itemToIntermediate['PC'] = {}							 
+itemToIntermediate['PE'] = {}
+							 
 itemFromIntermediate = {}
-itemFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/intermediate_bedrock.json'))
 itemFromIntermediate['PC'] = {}
+itemFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/intermediate_bedrock.json'))
 
 requiresBlockEntity = {}
 requiresBlockEntity['PE'] = [26,29,33,54,146]
 requiresBlockEntity['PC'] = []
 
-
+# if an except block is run when it shouldn't have been run this function
+# it will try and send off the data using a google form that will allow us to try and fix the issue
+# called by bugReport(version, traceback.format_exc())
+def bugReport():
+	try:
+		urllib2.urlopen('https://docs.google.com/forms/d/e/1FAIpQLSdho3ivB1ulh8k_p06ZpFl6rhvWIEky5Zn-zewa1xk48ucmzA/viewform?usp=pp_url&entry.1103098740={}&entry.1865363410={}'.format(filter_version,traceback.format_exc()))
+	except:
+		pass
+	
 
 def perform(level, box, options):
+
+	answer = None
+	try:
+		update_data = urllib2.urlopen('https://raw.githubusercontent.com/gentlegiantJGC/Minecraft-World-Converter/master/version.txt').read().split(';')
+		if filter_version != update_data[0]:
+			#this part I found in the MCedit source code so credit to the MCedit team
+			answer = albow.ask(
+				('Version {} is available').format(update_data[0]),
+				[
+					'Download',
+					'Ignore'
+				],
+				default=0,
+				cancel=1
+			)
+	except:
+		print 'Tried checking if there was an update however there was an issue'
+		
+	if answer == "Download":
+		from mcplatform import platform_open
+		platform_open(update_data[1])
+		raise Exception(update_data[2].replace('\\n', '\n\n'))
+
 	skippedBlocks = []
-	# if level.gameVersion == 'PE':
-		# convertFrom = 'PE'
-	# elif level.gameVersion in ['javalevel','1.12']:
-		# convertFrom = 'PC'
-	# else:
-		# raise Exception('world type {} i	# if level.gameVersion == 'PE':
-		# convertFrom = 'PE'
-	# elif level.gameVersion in ['javalevel','1.12']:
-		# convertFrom = 'PC'
-	# else:
-		# raise Exception('world type {} is not currently supported'.format(level.gameVersion))
-		
-		
 	convertFrom = options['Convert From']	
 	convertTo = options['Convert To']
+	if convertFrom == convertTo:
+		raise Exception("due to some bug that I can't work out this doesn't currently work")
 		
-	# # load PE world
-	# if convertTo == 'PE':
-		# filePath = None
-		# filePath = mcplatform.askOpenFile(title="Select a Pocket world to write to", schematics=False)
-		# if filePath is not None:
-			# if PocketLeveldbWorld._isLevel(filePath):
-				# if leveldbpocket.leveldb_available:
-					# levelNew = PocketLeveldbWorld(filePath)
-				# else:
-					# raise Exception("Pocket support has failed")
-			# else:
-				# raise Exception("Not a Pocket world")
-	
-	# for (chunk, _, _) in level.getChunkSlices(box):
-		# cx, cz = chunk.chunkPosition
-		# generateChunk(levelNew, True, cx, cz, 15)
-		# chunkNew = levelNew.getChunk(cx, cz)
-		# chunkNew.Blocks[:] = copy.deepcopy(chunk.Blocks)
-		# chunkNew.Data[:] = copy.deepcopy(chunk.Data)
-		# chunkNew.TileEntities = copy.deepcopy(chunk.TileEntities)
-		# chunkNew.Entities = copy.deepcopy(chunk.Entities)
-		# chunkNew.dirty = True
-	# levelNew.saveInPlaceGen()
-	# levelNew.close()
-	
-	
  
 	# needs cleaning up (ideally idenfifying map by actual map type rather than user input?)
-	# or just merge these into one since it is a bit redunent at this point
-	if convertFrom == 'PC':
-		filePath = None
-		filePath = mcplatform.askOpenFile(title="Select a PC world to read from", schematics=False)
-		if filePath is not None:
-			levelOld = mclevel.fromFile(filePath)
-		else:
-			raise Exception('no file given')
-	elif convertFrom == 'PE':
-		filePath = None
-		filePath = mcplatform.askOpenFile(title="Select a PC world to read from", schematics=False)
-		if filePath is not None:
-			levelOld = mclevel.fromFile(filePath)
-		else:
-			raise Exception('no file given')
+	filePath = None
+	filePath = mcplatform.askOpenFile(title="Select a PC world to read from", schematics=False)
+	if filePath is not None:
+		levelOld = mclevel.fromFile(filePath)
+	else:
+		raise Exception('no file given')
 	
 	chunksDone = 0
 	for chunkOldCoords in levelOld.allChunks:
@@ -115,8 +103,11 @@ def perform(level, box, options):
 		chunk = level.getChunk(cx, cz)
 		chunk.Blocks[:] = copy.deepcopy(chunkOld.Blocks)
 		chunk.Data[:] = copy.deepcopy(chunkOld.Data)
-		chunk.TileEntities = copy.deepcopy(chunkOld.TileEntities)
-		chunk.Entities = copy.deepcopy(chunkOld.Entities)
+		if level.gameVersion == 'PE':
+			chunk.TileEntities = copy.deepcopy(chunkOld.TileEntities)
+			chunk.Entities = copy.deepcopy(chunkOld.Entities)
+		#else:
+			#need to work out how to copy entities across to the PC version. The above code errors
 		
 		# get a list of all the unique blocks
 		chunkBlockList = np.unique(np.add(chunkOld.Blocks*16,chunkOld.Data))
@@ -188,20 +179,21 @@ def perform(level, box, options):
 			convertEntity(convertFrom, convertTo, e)
 			
 		# biomes
-		# if convertFrom == 'PC':
-			# if chunkOld.root_tag and 'Level' in chunkOld.root_tag.keys() and 'Biomes' in chunkOld.root_tag["Level"].keys():
-				# array = chunkOld.root_tag["Level"]["Biomes"].value
-			# else:
-				# array = np.ones(256)
-		# elif convertFrom == 'PE':
-			# array = fromstring(chunkOld.Biomes.tostring(), 'uint8')
-			
-		# if convertTo == 'PC':
-			# if chunk.root_tag and 'Level' in chunk.root_tag.keys() and 'Biomes' in chunk.root_tag["Level"].keys():
-				# chunk.root_tag["Level"]["Biomes"].value = array
-		# elif convertTo == 'PE':
-			# array.shape = (16,16)
-			# chunk.Biomes = array
+		if options['Biomes']:
+			if convertFrom == 'PC':
+				if chunkOld.root_tag and 'Level' in chunkOld.root_tag.keys() and 'Biomes' in chunkOld.root_tag["Level"].keys():
+					array = chunkOld.root_tag["Level"]["Biomes"].value
+				else:
+					array = np.ones(256)
+			elif convertFrom == 'PE':
+				array = fromstring(chunkOld.Biomes.tostring(), 'uint8')
+				
+			if convertTo == 'PC':
+				if chunk.root_tag and 'Level' in chunk.root_tag.keys() and 'Biomes' in chunk.root_tag["Level"].keys():
+					chunk.root_tag["Level"]["Biomes"].value = array
+			elif convertTo == 'PE':
+				array.shape = (16,16)
+				chunk.Biomes = array
 		
 		
 		
@@ -212,8 +204,8 @@ def perform(level, box, options):
 		chunk.dirty = True
 		chunksDone += 1
 		print '{}/{}'.format(chunksDone,len(list(levelOld.allChunks)))
-	if skippedBlocks != []:
-		print skippedBlocks
+	# if skippedBlocks != []:
+		# print skippedBlocks
 	levelOld.close()
 		
 
@@ -296,6 +288,8 @@ def convertBlock(convertFrom, convertTo, blockID, blockData, nbtIn=None, fallBac
 		return -2, -2, None
 		
 def convertBlockEntity(convertFrom, convertTo, te):
+	if convertFrom == convertTo:
+		return
 	if 'id' not in te:
 		del te
 	if te['id'].value not in blockEntityToIntermediate:
@@ -424,6 +418,8 @@ def convertEntity(convertFrom, convertTo, e):
 	print 'convert entity'
 	
 def convertItem(convertFrom, convertTo, itemID, itemData):#, nbtIn=None, fallBack = False):
+	if convertFrom == convertTo:
+		return itemID, itemData
 
 	# itemToIntermediate
 	# itemFromIntermediate

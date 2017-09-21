@@ -3,6 +3,10 @@
 		"id": 0,
 		"data": 0
 	},
+	"minecraft:deadbush": {
+		"id": 32,
+		"data": 0
+	},
 	"minecraft:dandelion": {
 		"id": 37,
 		"data": 0
@@ -42,5 +46,9 @@
 	"minecraft:oxeye_daisy": {
 		"id": 38,
 		"data": 8
+	},
+	"minecraft:cactus": {
+		"id": 81,
+		"data": 0
 	}
 }
