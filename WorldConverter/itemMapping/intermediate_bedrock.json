@@ -50,5 +50,41 @@
 	"minecraft:cactus": {
 		"id": 81,
 		"data": 0
+	},
+	"minecraft:shrub": {
+		"id": 31,
+		"data": 0
+	},
+	"minecraft:tallgrass": {
+		"id": 31,
+		"data": 1
+	},
+	"minecraft:fern": {
+		"id": 31,
+		"data": 2
+	},
+	"minecraft:oak_sapling": {
+		"id": 6,
+		"data": 0
+	},
+	"minecraft:spruce_sapling": {
+		"id": 6,
+		"data": 1
+	},
+	"minecraft:birch_sapling": {
+		"id": 6,
+		"data": 2
+	},
+	"minecraft:jungle_sapling": {
+		"id": 6,
+		"data": 3
+	},
+	"minecraft:acacia_sapling": {
+		"id": 6,
+		"data": 4
+	},
+	"minecraft:dark_oak_sapling": {
+		"id": 6,
+		"data": 5
 	}
 }

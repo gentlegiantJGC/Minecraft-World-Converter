@@ -6,6 +6,7 @@ inputs = (
 	("Convert From",("PC","PE")),
 	("Convert To",("PE","PC")),
 	("Biomes", (True)),
+	("Break Every", (10000)),
 )
 
 import json
@@ -18,6 +19,9 @@ from pymclevel import leveldbpocket
 from pymclevel import mclevel
 from pymclevel.leveldbpocket import PocketLeveldbWorld
 import mcplatform
+
+import WorldConverter
+reload(WorldConverter)
 
 blockToIntermediate = {}
 blockToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/java_intermediate.json'))
@@ -46,14 +50,6 @@ requiresBlockEntity = {}
 requiresBlockEntity['PE'] = [26,29,33,54,146]
 requiresBlockEntity['PC'] = []
 
-# if an except block is run when it shouldn't have been run this function
-# it will try and send off the data using a google form that will allow us to try and fix the issue
-# called by bugReport(version, traceback.format_exc())
-def bugReport():
-	try:
-		urllib2.urlopen('https://docs.google.com/forms/d/e/1FAIpQLSdho3ivB1ulh8k_p06ZpFl6rhvWIEky5Zn-zewa1xk48ucmzA/viewform?usp=pp_url&entry.1103098740={}&entry.1865363410={}'.format(filter_version,traceback.format_exc()))
-	except:
-		pass
 	
 
 def perform(level, box, options):
@@ -95,9 +91,32 @@ def perform(level, box, options):
 	else:
 		raise Exception('no file given')
 	
+	if len(list(levelOld.allChunks)) > options["Break Every"]:
+		chunksDonePath = None
+		chunksDonePath = mcplatform.askOpenFile(title="Select somewhere to save chunk list", schematics=False)
+		if chunksDonePath is not None:
+			chunksDoneFO = open(chunksDonePath).read()
+			if chunksDoneFO == '':
+				chunksDoneList = []
+			else:
+				chunksDoneList = json.loads(chunksDoneFO)
+		else:
+			raise Exception('no file given')
+	else:
+		chunksDoneList = []
+		chunksDonePath = None
+	
+	
 	chunksDone = 0
+	import time
+	t = time.time()
 	for chunkOldCoords in levelOld.allChunks:
 		cx, cz = chunkOldCoords
+		if [cx,cz] in chunksDoneList:
+			chunksDone += 1
+			continue
+		else:
+			chunksDoneList.append(chunkOldCoords)
 		chunkOld = levelOld.getChunk(cx, cz)
 		generateChunk(level, True, cx, cz, 15)
 		chunk = level.getChunk(cx, cz)
@@ -115,7 +134,7 @@ def perform(level, box, options):
 		for block in chunkBlockList:
 			blockID = block >> 4
 			blockData = block % 16
-			blockIDNew, blockDataNew, nbtNew = convertBlock(convertFrom, convertTo, blockID, blockData)
+			blockIDNew, blockDataNew, nbtNew = WorldConverter.convertBlock(convertFrom, convertTo, blockID, blockData)
 			# if  blockIDNew is equal to -1 then there is a tile enitity requirement
 			if blockIDNew == -1:
 				# for every location with that block id+data combo
@@ -127,12 +146,12 @@ def perform(level, box, options):
 					te = level.tileEntityAt(x,y,z)
 					if te is None:
 						# if the tile entity does not exist, use fallback id
-						blockIDNew, blockDataNew, nbtNew = convertBlock(convertFrom, convertTo, blockID, blockData, fallBack = True)
+						blockIDNew, blockDataNew, nbtNew = WorldConverter.convertBlock(convertFrom, convertTo, blockID, blockData, fallBack = True)
 						if nbtNew is not None:
-							te = createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
+							te = WorldConverter.createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
 					else:
 						# if it does exist 
-						blockIDNew, blockDataNew, nbtNew = convertBlock(convertFrom, convertTo, blockID, blockData, te)
+						blockIDNew, blockDataNew, nbtNew = WorldConverter.convertBlock(convertFrom, convertTo, blockID, blockData, te)
 					level.setBlockAt(x,y,z,blockIDNew)
 					level.setBlockDataAt(x,y,z,blockDataNew)
 					if te is not None and nbtNew is not None:
@@ -161,7 +180,7 @@ def perform(level, box, options):
 					# get the tile entity
 					te = level.tileEntityAt(x,y,z)
 					if te is None:
-						te = createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
+						te = WorldConverter.createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
 					# merge nbtNew with tile entity
 					for nbtToSet in nbtNew:
 						te[nbtToSet['key']] = strToNBT['nbtType'](nbtToSet['value'])
@@ -171,12 +190,12 @@ def perform(level, box, options):
 					x += cx * 16
 					z += cz * 16
 					if level.tileEntityAt(x,y,z) is None:
-						createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
+						WorldConverter.createBlockEntity(chunk, convertTo, blockIDNew, x, y, z)
 		for te in chunk.TileEntities[:]:
-			convertBlockEntity(convertFrom, convertTo, te)
+			WorldConverter.convertBlockEntity(convertFrom, convertTo, te)
 			
 		for e in chunk.Entities[:]:
-			convertEntity(convertFrom, convertTo, e)
+			WorldConverter.convertEntity(convertFrom, convertTo, e)
 			
 		# biomes
 		if options['Biomes']:
@@ -204,10 +223,17 @@ def perform(level, box, options):
 		chunk.dirty = True
 		chunksDone += 1
 		print '{}/{}'.format(chunksDone,len(list(levelOld.allChunks)))
-	# if skippedBlocks != []:
+		if chunksDone % options["Break Every"] == options["Break Every"] - 1:
+			break
+	if skippedBlocks != []:
+		WorldConverter.bugReport(submitThis='skippedBlocks:{}'.format(skippedBlocks))
 		# print skippedBlocks
 	levelOld.close()
-		
+	print time.time() - t
+	if chunksDonePath is not None:
+		chunksDoneFO = open(chunksDonePath,'w')
+		json.dump(chunksDoneList, chunksDoneFO)
+		chunksDoneFO.close()
 
 
 def generateChunk(level, generateBase, cx, cz, y, flatworldIDs=[]):
@@ -248,197 +274,3 @@ def generateChunk(level, generateBase, cx, cz, y, flatworldIDs=[]):
 				chunk.add_data(terrain=terrain, subchunk=i)
 	# tell MCedit the chunk has changed
 	chunk.dirty = True
-	
-	
-	
-def convertBlock(convertFrom, convertTo, blockID, blockData, nbtIn=None, fallBack = False):
-	# check the conversion options are valid
-	if convertFrom not in ['PC','PE'] or convertTo not in ['PC','PE']:
-		raise Exception('{} to {} is not a valid conversion method'.format(convertFrom, convertTo))
-	
-	try:
-		nbtOut = None
-		# if the block mapping requires nbt
-		if 'nbt' in blockToIntermediate[convertFrom][str(blockID)][str(blockData)] and not fallBack:
-			# if fallBack is false and the tile entity has not been defined return -1
-			# this happens when doing the whole chunk
-			if nbtIn is None:
-				return -1,-1, nbtOut
-			else:
-				# if nbt has been defined then use it to find the intermediate id
-				intermediateID = blockToIntermediate[convertFrom][str(blockID)][str(blockData)]
-				# multiple keys can be checked. They are stored recursively
-				while 'nbt' in intermediateID:
-					intermediateID = intermediateID['value'][nbtIn[intermediateID['key']].value]
-				intermediateID = intermediateID['intermediateID']
-		# otherwise use the normal intermediate id
-		else:
-			intermediateID = blockToIntermediate[convertFrom][str(blockID)][str(blockData)]['intermediateID']
-		
-		if 'nbt' in blockFromIntermediate[convertTo][intermediateID]:
-			nbtOut = blockFromIntermediate[convertTo][intermediateID]['nbt']
-		
-		return blockFromIntermediate[convertTo][intermediateID]['id'], blockFromIntermediate[convertTo][intermediateID]['data'], nbtOut
-
-	except BaseException as e:
-		# if there is an error with the block mapping then leave everything as it was and let the user know
-		# print traceback.print_exc()
-		# print e
-		# print 'convertFrom:{},convertTo:{},blockID:{},blockData:{},nbtIn:,fallBack:{}'.format(convertFrom,convertTo,blockID,blockData,nbtIn,fallBack)
-		return -2, -2, None
-		
-def convertBlockEntity(convertFrom, convertTo, te):
-	if convertFrom == convertTo:
-		return
-	if 'id' not in te:
-		del te
-	if te['id'].value not in blockEntityToIntermediate:
-		raise Exception('{} is not a known block entity name'.format(te['id'].value))
-	intermediateID = blockEntityToIntermediate[te['id'].value]
-	
-	# conversion code here
-	# something recursive would probably be required in the long term
-	
-	if intermediateID == 'minecraft:flower_pot':
-		if convertFrom == 'PC':
-			if 'Item' in te:
-				itemID = te['Item'].value
-				del te['Item']
-			else:
-				raise Exception('Item definition not in te:{}'.format(te))
-			if 'Data' in te:
-				itemData = te['Data'].value
-				del te['Data']
-			else:
-				itemData = 0
-		elif convertFrom == 'PE':
-			if 'item' in te:
-				itemID = te['item'].value
-				del te['item']
-			else:
-				raise Exception('Item definition not in te:{}'.format(te))
-			if 'mData' in te:
-				itemData = te['mData'].value
-				del te['mData']
-			else:
-				itemData = 0
-				
-		itemIDNew, itemDataNew = convertItem(convertFrom, convertTo, itemID, itemData)
-		
-		if convertTo == 'PC':
-			te['Item'] = TAG_String(itemIDNew)
-			te['Item'] = TAG_Int(itemDataNew)
-		elif convertTo == 'PE':
-			te['item'] = TAG_Short(itemIDNew)
-			te['mData'] = TAG_Int(itemDataNew)
-			
-	elif intermediateID == 'minecraft:bed':
-		if convertFrom in ['PC', 'PE']:
-			if 'color' in te:
-				colour = te['color'].value
-				del te['color']
-			else:
-				colour = 14
-		
-		if convertTo == 'PC':
-			te['color'] = TAG_Int(colour)
-		elif convertTo == 'PE':
-			te['color'] = TAG_Byte(colour)
-		
-	
-	if intermediateID not in blockEntityFromIntermediate[convertTo]:
-		raise Exception('{} is not a known block entity name'.format(te['id'].value))
-	if blockEntityFromIntermediate[convertTo][intermediateID] is None:
-		del te
-	else:
-		te['id'] = TAG_String(blockEntityFromIntermediate[convertTo][intermediateID])
-		
-def createBlockEntity(chunk, convertTo, block, x, y, z):
-	if convertTo == 'PE':
-		# bed block
-		if block == 26:
-			te = TAG_Compound()
-			te["color"] = TAG_Byte(14)
-			te["id"] = TAG_String(u'Bed')
-			te["x"] = TAG_Int(x)
-			te["y"] = TAG_Int(y)
-			te["z"] = TAG_Int(z)
-			chunk.addTileEntity(te)
-		# sticky piston
-		elif block == 29:		
-			te = TAG_Compound()		
-			te["AttachedBlocks"] = TAG_List()		
-			te["BreakBlocks"] = TAG_List()		
-			te["id"] = TAG_String(u'PistonArm')		
-			te["isMovable"] = TAG_Byte(1)		
-			te["LastProgress"] = TAG_Float()		
-			te["NewState"] = TAG_Byte()		
-			te["Progress"] = TAG_Float()		
-			te["State"] = TAG_Byte()		
-			te["Sticky"] = TAG_Byte(1)		
-			te["x"] = TAG_Int(x)		
-			te["y"] = TAG_Int(y)		
-			te["z"] = TAG_Int(z)		
-			chunk.addTileEntity(te)
-		# normal piston
-		elif block == 33:		
-			te = TAG_Compound()		
-			te["AttachedBlocks"] = TAG_List()		
-			te["BreakBlocks"] = TAG_List()		
-			te["id"] = TAG_String(u'PistonArm')		
-			te["isMovable"] = TAG_Byte(1)		
-			te["LastProgress"] = TAG_Float()		
-			te["NewState"] = TAG_Byte()		
-			te["Progress"] = TAG_Float()		
-			te["State"] = TAG_Byte()		
-			te["Sticky"] = TAG_Byte(0)		
-			te["x"] = TAG_Int(x)
-			te["y"] = TAG_Int(y)
-			te["z"] = TAG_Int(z)
-			chunk.addTileEntity(te)
-		# chests
-		elif block in [54,146]:
-			te = TAG_Compound()
-			te["Items"] = TAG_List()
-			te["id"] = TAG_String(u'Chest')
-			te["x"] = TAG_Int(x)
-			te["y"] = TAG_Int(y)
-			te["z"] = TAG_Int(z)
-			chunk.addTileEntity(te)
-		else:
-			raise Exception('block {} is not currently supported for making tile entities'.format(block))
-	# elif convertTo == 'PC':
-	
-	else:
-		raise Exception('{} is an unsupported conversion type'.format(convertTo))
-		
-	return te
-	
-def convertEntity(convertFrom, convertTo, e):
-	print 'convert entity'
-	
-def convertItem(convertFrom, convertTo, itemID, itemData):#, nbtIn=None, fallBack = False):
-	if convertFrom == convertTo:
-		return itemID, itemData
-
-	# itemToIntermediate
-	# itemFromIntermediate
-
-	if convertFrom == 'PC':
-		intermediateID = itemToIntermediate['PC'][str(itemID)][str(itemData)]['intermediateID']
-		# look up the string id and data to find the intermediate id
-	# elif convertFrom == 'PE':
-		# look up the numerical id and data to find the intermediate id
-	else:
-		raise Exception('{} is an unsupported conversion type'.format(convertFrom))
-		
-	# if convertTo == 'PC':
-		# look up the intermediate id to find the string id and data
-	if convertTo == 'PE':
-		itemIDNew = itemFromIntermediate['PE'][intermediateID]['id']
-		itemDataNew = itemFromIntermediate['PE'][intermediateID]['data']
-		# look up the intermediate id to find the numerical id and data
-	else:
-		raise Exception('{} is an unsupported conversion type'.format(convertTo))
-		
-	return itemIDNew, itemDataNew

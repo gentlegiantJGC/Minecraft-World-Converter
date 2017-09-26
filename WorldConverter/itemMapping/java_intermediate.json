@@ -88,5 +88,41 @@
 		"13": {"intermediateID": "minecraft:cactus"},
 		"14": {"intermediateID": "minecraft:cactus"},
 		"15": {"intermediateID": "minecraft:cactus"}
+	},
+	"minecraft:tallgrass": {
+		"0": {"intermediateID": "minecraft:shrub"},
+		"1": {"intermediateID": "minecraft:tallgrass"},
+		"2": {"intermediateID": "minecraft:fern"},
+		"3": {"intermediateID": "minecraft:tallgrass"},
+		"4": {"intermediateID": "minecraft:tallgrass"},
+		"5": {"intermediateID": "minecraft:tallgrass"},
+		"6": {"intermediateID": "minecraft:tallgrass"},
+		"7": {"intermediateID": "minecraft:tallgrass"},
+		"8": {"intermediateID": "minecraft:tallgrass"},
+		"9": {"intermediateID": "minecraft:tallgrass"},
+		"10": {"intermediateID": "minecraft:tallgrass"},
+		"11": {"intermediateID": "minecraft:tallgrass"},
+		"12": {"intermediateID": "minecraft:tallgrass"},
+		"13": {"intermediateID": "minecraft:tallgrass"},
+		"14": {"intermediateID": "minecraft:tallgrass"},
+		"15": {"intermediateID": "minecraft:tallgrass"}
+	},
+	"minecraft:sapling": {
+		"0": {"intermediateID": "minecraft:oak_sapling"},
+		"1": {"intermediateID": "minecraft:spruce_sapling"},
+		"2": {"intermediateID": "minecraft:birch_sapling"},
+		"3": {"intermediateID": "minecraft:jungle_sapling"},
+		"4": {"intermediateID": "minecraft:acacia_sapling"},
+		"5": {"intermediateID": "minecraft:dark_oak_sapling"},
+		"6": {"intermediateID": "minecraft:oak_sapling"},
+		"7": {"intermediateID": "minecraft:oak_sapling"},
+		"8": {"intermediateID": "minecraft:oak_sapling"},
+		"9": {"intermediateID": "minecraft:spruce_sapling"},
+		"10": {"intermediateID": "minecraft:birch_sapling"},
+		"11": {"intermediateID": "minecraft:jungle_sapling"},
+		"12": {"intermediateID": "minecraft:acacia_sapling"},
+		"13": {"intermediateID": "minecraft:dark_oak_sapling"},
+		"14": {"intermediateID": "minecraft:oak_sapling"},
+		"15": {"intermediateID": "minecraft:oak_sapling"}
 	}
 }
