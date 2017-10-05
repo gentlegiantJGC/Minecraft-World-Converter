@@ -1,5 +1,7 @@
+print 'reloading tileEntityMapping.convert'
 import json
 import directories
+from WorldConverter.itemMapping.convert import convertItem
 blockEntityToIntermediate = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/_intermediate.json'))
 
 blockEntityFromIntermediate = {}
@@ -26,7 +28,8 @@ def convertBlockEntity(convertFrom, convertTo, te):
 				itemID = te['Item'].value
 				del te['Item']
 			else:
-				raise Exception('Item definition not in te:{}'.format(te))
+				itemID = 'minecraft:air'
+				# raise Exception('Item definition not in te:{}'.format(te))
 			if 'Data' in te:
 				itemData = te['Data'].value
 				del te['Data']
@@ -37,7 +40,8 @@ def convertBlockEntity(convertFrom, convertTo, te):
 				itemID = te['item'].value
 				del te['item']
 			else:
-				raise Exception('Item definition not in te:{}'.format(te))
+				itemID = 0
+				# raise Exception('Item definition not in te:{}'.format(te))
 			if 'mData' in te:
 				itemData = te['mData'].value
 				del te['mData']

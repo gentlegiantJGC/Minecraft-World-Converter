@@ -1,3 +1,4 @@
+print 'reloading itemMapping.convert'
 import json
 import directories
 itemToIntermediate = {}

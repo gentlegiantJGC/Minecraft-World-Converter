@@ -1,3 +1,4 @@
+print 'reloading utils'
 import urllib2
 
 # if an except block is run when it shouldn't have been run this function

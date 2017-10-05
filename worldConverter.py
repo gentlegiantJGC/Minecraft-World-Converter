@@ -1,10 +1,10 @@
 displayName = "World Converter"
 filter_version = "1.0.0"
-#add version checking and updating code
 
 inputs = (
 	("Convert From",("PC","PE")),
 	("Convert To",("PE","PC")),
+	("NBT", ("Delete", "Keep")),
 	("Biomes", (True)),
 	("Break Every", (10000)),
 )
@@ -15,44 +15,16 @@ import numpy as np
 import copy
 from pymclevel import TAG_List, TAG_Byte, TAG_Int, TAG_Compound, TAG_Short, TAG_Double, TAG_String, TAG_Float
 strToNBT = {'byte': TAG_Byte, 'int': TAG_Int, 'short': TAG_Short, 'double': TAG_Double, 'string': TAG_String, 'float': TAG_Float}
-from pymclevel import leveldbpocket
 from pymclevel import mclevel
-from pymclevel.leveldbpocket import PocketLeveldbWorld
 import mcplatform
 
-import WorldConverter
-reload(WorldConverter)
-
-blockToIntermediate = {}
-blockToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/java_intermediate.json'))
-blockToIntermediate['PE'] = {}							  
-# add json mappings here for the other versions
-blockFromIntermediate = {}
-blockFromIntermediate['PC'] = {}
-blockFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/intermediate_bedrock.json'))
-# add json mappings here for the other versions
-
-blockEntityToIntermediate = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/_intermediate.json'))
-
-blockEntityFromIntermediate = {}
-blockEntityFromIntermediate['PC'] = {}
-blockEntityFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_bedrock.json'))
-
-itemToIntermediate = {}
-itemToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/java_intermediate.json'))
-itemToIntermediate['PE'] = {}
-							 
-itemFromIntermediate = {}
-itemFromIntermediate['PC'] = {}
-itemFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/itemMapping/intermediate_bedrock.json'))
 
 requiresBlockEntity = {}
 requiresBlockEntity['PE'] = [26,29,33,54,146]
 requiresBlockEntity['PC'] = []
 
-	
-
 def perform(level, box, options):
+	import WorldConverter
 
 	answer = None
 	try:
@@ -122,9 +94,22 @@ def perform(level, box, options):
 		chunk = level.getChunk(cx, cz)
 		chunk.Blocks[:] = copy.deepcopy(chunkOld.Blocks)
 		chunk.Data[:] = copy.deepcopy(chunkOld.Data)
-		if level.gameVersion == 'PE':
-			chunk.TileEntities = copy.deepcopy(chunkOld.TileEntities)
-			chunk.Entities = copy.deepcopy(chunkOld.Entities)
+		if options["NBT"] == "Delete":
+			for e in chunk.TileEntities[:]:
+				del e
+			for e in chunk.Entities[:]:
+				del e
+		
+		for e in chunkOld.TileEntities:
+			# try:
+				
+			# except:
+				# pass
+			chunk.TileEntities.append(copy.deepcopy(e))
+		for e in chunkOld.Entities:
+			chunk.Entities.append(copy.deepcopy(e))
+			# chunk.TileEntities = copy.deepcopy(chunkOld.TileEntities)
+			# chunk.Entities = copy.deepcopy(chunkOld.Entities)
 		#else:
 			#need to work out how to copy entities across to the PC version. The above code errors
 		
@@ -201,18 +186,19 @@ def perform(level, box, options):
 		if options['Biomes']:
 			if convertFrom == 'PC':
 				if chunkOld.root_tag and 'Level' in chunkOld.root_tag.keys() and 'Biomes' in chunkOld.root_tag["Level"].keys():
-					array = chunkOld.root_tag["Level"]["Biomes"].value
+					array = copy.deepcopy(chunkOld.root_tag["Level"]["Biomes"].value)
 				else:
 					array = np.ones(256)
 			elif convertFrom == 'PE':
 				array = fromstring(chunkOld.Biomes.tostring(), 'uint8')
-				
 			if convertTo == 'PC':
 				if chunk.root_tag and 'Level' in chunk.root_tag.keys() and 'Biomes' in chunk.root_tag["Level"].keys():
 					chunk.root_tag["Level"]["Biomes"].value = array
 			elif convertTo == 'PE':
 				array.shape = (16,16)
-				chunk.Biomes = array
+				for biomeID in np.unique(array):
+					chunk.Biomes[array == biomeID] = biomeID
+				# chunk.Biomes[:] = array
 		
 		
 		

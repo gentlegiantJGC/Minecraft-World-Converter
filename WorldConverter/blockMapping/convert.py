@@ -1,4 +1,5 @@
-# import json
+print 'reloading blockMapping.convert'
+import json
 import directories
 blockToIntermediate = {}
 blockToIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/blockMapping/java_intermediate.json'))
