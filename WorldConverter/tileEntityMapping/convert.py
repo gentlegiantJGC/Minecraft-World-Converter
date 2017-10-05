@@ -71,9 +71,23 @@ def convertBlockEntity(convertFrom, convertTo, te):
 			te['color'] = TAG_Byte(colour)
 		
 	
+	# elif intermediateID == 'minecraft:chest':
+		# if PC
+			# change things unique to a chest
+			# change inventory
+			# convertInventory(convertFrom, convertTo, te)
+	
 	if intermediateID not in blockEntityFromIntermediate[convertTo]:
 		raise Exception('{} is not a known block entity name'.format(te['id'].value))
 	if blockEntityFromIntermediate[convertTo][intermediateID] is None:
 		del te
 	else:
 		te['id'] = TAG_String(blockEntityFromIntermediate[convertTo][intermediateID])
+		
+		
+		
+# def convertInventory(convertFrom, convertTo, te):
+	# if PC
+		# copy tag to the correct location and convert item using the item mappings
+		# convertItem(...)
+	# if PE
