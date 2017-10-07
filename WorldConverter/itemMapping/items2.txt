@@ -1,4 +1,9 @@
 {
+	"minecraft:air": {
+		"0": {
+			"intermediateID": "minecraft:air"
+		}
+	},
 	"minecraft:stone": {
 		"0": {
 			"intermediateID": "minecraft:stone"
@@ -1706,7 +1711,7 @@
 	},
 	"minecraft:filled_map": {
 		"0": {
-			"note" : "this should be temporary until maps are implimented"
+			"note": "this should be temporary until maps are implimented",
 			"intermediateID": "minecraft:empty_map"
 		}
 	},
@@ -2063,6 +2068,249 @@
 	"minecraft:record_wait": {
 		"0": {
 			"intermediateID": "minecraft:record_wait"
+		}
+	},
+	"minecraft:spectral_arrow": {
+		"0": {
+			"intermediateID": "minecraft:spectral_arrow"
+		}
+	},
+	"minecraft:tipped_arrow": {
+		"0": {
+			"intermediateID": "minecraft:tipped_arrow"
+		}
+	},
+	"minecraft:spruce_door": {
+		"0": {
+			"intermediateID": "minecraft:spruce_door"
+		}
+	},
+	"minecraft:birch_door": {
+		"0": {
+			"intermediateID": "minecraft:birch_door"
+		}
+	},
+	"minecraft:jungle_door": {
+		"0": {
+			"intermediateID": "minecraft:jungle_door"
+		}
+	},
+	"minecraft:acacia_door": {
+		"0": {
+			"intermediateID": "minecraft:acacia_door"
+		}
+	},
+	"minecraft:dark_oak_door": {
+		"0": {
+			"intermediateID": "minecraft:dark_oak_door"
+		}
+	},
+	"minecraft:spruce_boat": {
+		"0": {
+			"intermediateID": "minecraft:spruce_boat"
+		}
+	},
+	"minecraft:birch_boat": {
+		"0": {
+			"intermediateID": "minecraft:birch_boat"
+		}
+	},
+	"minecraft:jungle_boat": {
+		"0": {
+			"intermediateID": "minecraft:jungle_boat"
+		}
+	},
+	"minecraft:acacia_boat": {
+		"0": {
+			"intermediateID": "minecraft:acacia_boat"
+		}
+	},
+	"minecraft:dark_oak_boat": {
+		"0": {
+			"intermediateID": "minecraft:oak_boat"
+		}
+	},
+	"minecraft:cooked_fish": {
+		"0": {
+			"intermediateID": "minecraft:cooked_fish"
+		},
+		"1": {
+			"intermediateID": "minecraft:cooked_salmon"
+		}
+	},
+	"minecraft:mutton": {
+		"0": {
+			"intermediateID": "minecraft:mutton_raw"
+		}
+	},
+	"minecraft:cooked_mutton": {
+		"0": {
+			"intermediateID": "minecraft:mutton_cooked"
+		}
+	},
+	"minecraft:rabbit": {
+		"0": {
+			"intermediateID": "minecraft:rabbit"
+		}
+	},
+	"minecraft:cooked_rabbit": {
+		"0": {
+			"intermediateID": "minecraft:cooked_rabbit"
+		}
+	},
+	"minecraft:rabbit_stew": {
+		"0": {
+			"intermediateID": "minecraft:rabbit_stew"
+		}
+	},
+	"minecraft:rabbit_foot": {
+		"0": {
+			"intermediateID": "minecraft:rabbit_foot"
+		}
+	},
+	"minecraft:rabbit_hide": {
+		"0": {
+			"intermediateID": "minecraft:rabbit_hide"
+		}
+	},
+	"minecraft:splash_potion": {
+		"0": {
+			"intermediateID": "minecraft:splash_potion"
+		}
+	},
+	"minecraft:lingering_potion": {
+		"0": {
+			"intermediateID": "minecraft:lingering_potion"
+		}
+	},
+	"minecraft:dragon_breath": {
+		"0": {
+			"intermediateID": "minecraft:dragon_breath"
+		}
+	},
+	"minecraft:armor_stand": {
+		"0": {
+			"intermediateID": "minecraft:armor_stand"
+		}
+	},
+	"minecraft:prismarine_shard": {
+		"0": {
+			"intermediateID": "minecraft:prismarine_shard"
+		}
+	},
+	"minecraft:prismarine_crystals": {
+		"0": {
+			"intermediateID": "minecraft:prismarine_crystals"
+		}
+	},
+	"minecraft:banner": {
+		"0": {
+			"intermediateID": "minecraft:black_banner"
+		},
+		"1": {
+			"intermediateID": "minecraft:red_banner"
+		},
+		"2": {
+			"intermediateID": "minecraft:green_banner"
+		},
+		"3": {
+			"intermediateID": "minecraft:brown_banner"
+		},
+		"4": {
+			"intermediateID": "minecraft:blue_banner"
+		},
+		"5": {
+			"intermediateID": "minecraft:purple_banner"
+		},
+		"6": {
+			"intermediateID": "minecraft:cyan_banner"
+		},
+		"7": {
+			"intermediateID": "minecraft:silver_banner"
+		},
+		"8": {
+			"intermediateID": "minecraft:gray_banner"
+		},
+		"9": {
+			"intermediateID": "minecraft:pink_banner"
+		},
+		"10": {
+			"intermediateID": "minecraft:lime_banner"
+		},
+		"11": {
+			"intermediateID": "minecraft:yellow_banner"
+		},
+		"12": {
+			"intermediateID": "minecraft:light_blue_banner"
+		},
+		"13": {
+			"intermediateID": "minecraft:magenta_banner"
+		},
+		"14": {
+			"intermediateID": "minecraft:orange_banner"
+		},
+		"15": {
+			"intermediateID": "minecraft:white_banner"
+		}
+	},
+	"minecraft:end_crystal": {
+		"0": {
+			"intermediateID": "minecraft:end_crystal"
+		}
+	},
+	"minecraft:shield": {
+		"0": {
+			"intermediateID": "minecraft:shield"
+		}
+	},
+	"minecraft:elytra": {
+		"0": {
+			"intermediateID": "minecraft:elytra"
+		}
+	},
+	"minecraft:chorus_fruit": {
+		"0": {
+			"intermediateID": "minecraft:chorus_fruit"
+		}
+	},
+	"minecraft:chorus_fruit_popped": {
+		"0": {
+			"intermediateID": "minecraft:chorus_fruit_popped"
+		}
+	},
+	"minecraft:beetroot_seeds": {
+		"0": {
+			"intermediateID": "minecraft:beetroot_seeds"
+		}
+	},
+	"minecraft:beetroot": {
+		"0": {
+			"intermediateID": "minecraft:beetroot"
+		}
+	},
+	"minecraft:beetroot_soup": {
+		"0": {
+			"intermediateID": "minecraft:beetroot_soup"
+		}
+	},
+	"minecraft:totem_of_undying": {
+		"0": {
+			"intermediateID": "minecraft:totem"
+		}
+	},
+	"minecraft:shulker_shell": {
+		"0": {
+			"intermediateID": "minecraft:shulker_shell"
+		}
+	},
+	"minecraft:iron_nugget": {
+		"0": {
+			"intermediateID": "minecraft:iron_nugget"
+		}
+	},
+	"minecraft:knowledge_book": {
+		"0": {
+			"intermediateID": "minecraft:knowledge_book"
 		}
 	}
 }
