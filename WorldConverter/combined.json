@@ -1,0 +1,9935 @@
+{
+	"minecraft:standing_sign_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 63
+		}]
+	},
+	"minecraft:sticky_piston_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 29
+		}]
+	},
+	"minecraft:pink_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:banner_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 176
+		}]
+	},
+	"minecraft:brown_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 159
+		}]
+	},
+	"minecraft:birch_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 135
+		}]
+	},
+	"minecraft:spruce_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 158
+		}]
+	},
+	"minecraft:powered_rail_ascending_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 27
+		}]
+	},
+	"minecraft:nether_brick": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 112
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_south_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 99
+		}]
+	},
+	"minecraft:brick_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 108
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_north_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 100
+		}]
+	},
+	"minecraft:acacia_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 187
+		}]
+	},
+	"minecraft:yellow_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:cobblestone_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 67
+		}]
+	},
+	"minecraft:sandstone_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 128
+		}]
+	},
+	"minecraft:pink_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:lever_bottom_north_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 69
+		}]
+	},
+	"minecraft:rail_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 66
+		}]
+	},
+	"minecraft:quartz_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 156
+		}]
+	},
+	"minecraft:light_gray_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 171
+		}]
+	},
+	"minecraft:tripwire_hook_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 131
+		}]
+	},
+	"minecraft:spruce_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 193
+		}]
+	},
+	"minecraft:jungle_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 136
+		}]
+	},
+	"minecraft:flower_pot_brown_mushroom": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 140
+		}]
+	},
+	"minecraft:banner_block_east_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 176
+		}]
+	},
+	"minecraft:oak_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 64
+		}]
+	},
+	"minecraft:jungle_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 85
+		}]
+	},
+	"minecraft:birch_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 18
+		}]
+	},
+	"minecraft:chiseled_red_sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 179
+		}]
+	},
+	"minecraft:lever_side_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 69
+		}]
+	},
+	"minecraft:piston_up_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 33
+		}]
+	},
+	"minecraft:jungle_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 195
+		}]
+	},
+	"minecraft:soul_sand": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 88
+		}]
+	},
+	"minecraft:iron_pressure_plate_active": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 148
+		}]
+	},
+	"minecraft:prismarine": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 168
+		}]
+	},
+	"minecraft:redstone_comparator_active_north_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 150
+		}]
+	},
+	"minecraft:quartz_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 155
+		}]
+	},
+	"minecraft:red_sandstone_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 180
+		}]
+	},
+	"minecraft:brick_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 108
+		}]
+	},
+	"minecraft:tripwire_suspended": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 132
+		}]
+	},
+	"minecraft:stone_button_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 77
+		}]
+	},
+	"minecraft:brewing_stand_no_bottles": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 117
+		}]
+	},
+	"minecraft:redstone_torch_active_torch_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 76
+		}]
+	},
+	"minecraft:spruce_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 193
+		}]
+	},
+	"minecraft:magenta_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 35
+		}]
+	},
+	"minecraft:acacia_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 187
+		}]
+	},
+	"minecraft:birch_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 2,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 6
+		}]
+	},
+	"minecraft:red_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 35
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_west_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 149
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_north_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 99
+		}]
+	},
+	"minecraft:daylight_sensor_power3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 151
+		}]
+	},
+	"minecraft:gray_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 4,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 6
+		}]
+	},
+	"minecraft:double_stone_brick_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 43
+		}]
+	},
+	"minecraft:acacia_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 163
+		}]
+	},
+	"minecraft:lime_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:orange_tulip": {
+		"itermediate_bedrock_item": [{
+			"data": 5,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 38
+		}]
+	},
+	"minecraft:oak_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 18
+		}]
+	},
+	"minecraft:white_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 220
+		}]
+	},
+	"minecraft:spurce_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 183
+		}]
+	},
+	"minecraft:redstone_repeater_active_east_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_east_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_east_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_east_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 94
+		}]
+	},
+	"minecraft:acacia_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 187
+		}]
+	},
+	"minecraft:end_rod_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 208
+		}]
+	},
+	"minecraft:acacia_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 196
+		}]
+	},
+	"minecraft:fire_age8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 51
+		}]
+	},
+	"minecraft:jungle_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 185
+		}]
+	},
+	"minecraft:iron_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 71
+		}]
+	},
+	"minecraft:nether_brick_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 114
+		}]
+	},
+	"minecraft:sticky_piston_north_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 29
+		}]
+	},
+	"minecraft:mossy_stone_brick_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 97
+		}]
+	},
+	"minecraft:orange_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:red_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 234
+		}]
+	},
+	"minecraft:orange_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:redstone_repeater_active_west_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_west_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_west_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_west_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 94
+		}]
+	},
+	"minecraft:dispenser_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 23
+		}]
+	},
+	"minecraft:chain_command_block_north_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 189
+		}]
+	},
+	"minecraft:stone_button_down_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 77
+		}]
+	},
+	"minecraft:ender_chest_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 130
+		}]
+	},
+	"minecraft:tripwire_attached_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 132
+		}]
+	},
+	"minecraft:repeating_command_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 188
+		}]
+	},
+	"minecraft:spruce_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 193
+		}]
+	},
+	"minecraft:oak_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 17
+		}]
+	},
+	"minecraft:acacia_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 196
+		}]
+	},
+	"minecraft:trapped_chest_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 146
+		}]
+	},
+	"minecraft:yellow_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 224
+		}]
+	},
+	"minecraft:brown_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 232
+		}]
+	},
+	"minecraft:brick_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 108
+		}]
+	},
+	"minecraft:diamond_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 56
+		}]
+	},
+	"minecraft:light_blue_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 159
+		}]
+	},
+	"minecraft:hay_bale_vertical": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 170
+		}]
+	},
+	"minecraft:sugar_canes_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 83
+		}]
+	},
+	"minecraft:spruce_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 18
+		}]
+	},
+	"minecraft:sugar_canes_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age8": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age9": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 83
+		}]
+	},
+	"minecraft:brown_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 178
+		}]
+	},
+	"minecraft:iron_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 71
+		}]
+	},
+	"minecraft:spurce_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 183
+		}]
+	},
+	"minecraft:chiseled_stone_brick_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 97
+		}]
+	},
+	"minecraft:purpur_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 182
+		}]
+	},
+	"minecraft:spruce_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 134
+		}]
+	},
+	"minecraft:gold_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 14
+		}]
+	},
+	"minecraft:jungle_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 3,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 6
+		}]
+	},
+	"minecraft:nether_brick_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 114
+		}]
+	},
+	"minecraft:pink_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:red_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 159
+		}]
+	},
+	"minecraft:coal_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 16
+		}]
+	},
+	"minecraft:nether_brick_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 44
+		}]
+	},
+	"minecraft:slime_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 165
+		}]
+	},
+	"minecraft:red_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 171
+		}]
+	},
+	"minecraft:birch_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 85
+		}]
+	},
+	"minecraft:magma_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 213
+		}]
+	},
+	"minecraft:detector_rail_ascending_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 28
+		}]
+	},
+	"minecraft:cobweb": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 30
+		}]
+	},
+	"minecraft:jungle_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 18
+		}]
+	},
+	"minecraft:cyan_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 35
+		}]
+	},
+	"minecraft:bed_head_west": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 26
+		}]
+	},
+	"minecraft:redstone_comparator_active_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 150
+		}]
+	},
+	"minecraft:black_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:stone_brick_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 109
+		}]
+	},
+	"minecraft:sunflower_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 175
+		}]
+	},
+	"minecraft:banner_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 176
+		}]
+	},
+	"minecraft:iron_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 71
+		}]
+	},
+	"minecraft:nether_brick_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 44
+		}]
+	},
+	"minecraft:spruce_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 134
+		}]
+	},
+	"minecraft:blue_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:redstone_wire_power11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 55
+		}]
+	},
+	"minecraft:brown_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 232
+		}]
+	},
+	"minecraft:powered_rail_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 27
+		}]
+	},
+	"minecraft:birch_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 184
+		}]
+	},
+	"minecraft:light_gray_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 159
+		}]
+	},
+	"minecraft:redstone_comparator_active_west_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 150
+		}]
+	},
+	"minecraft:red_sand": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 12
+		}]
+	},
+	"minecraft:red_sandstone_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 180
+		}]
+	},
+	"minecraft:red_sandstone_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 182
+		}]
+	},
+	"minecraft:jungle_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 136
+		}]
+	},
+	"minecraft:brown_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 232
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_north_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 149
+		}]
+	},
+	"minecraft:nether_brick_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 114
+		}]
+	},
+	"minecraft:purple_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 219
+		}]
+	},
+	"minecraft:sunflower_top": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 175
+		}]
+	},
+	"minecraft:blue_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:piston_six_sided": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 33
+		}]
+	},
+	"minecraft:cauldron_full": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 118
+		}]
+	},
+	"minecraft:jacko_lantern_west_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 91
+		}]
+	},
+	"minecraft:pumpkin_stem_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 104
+		}]
+	},
+	"minecraft:white_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 159
+		}]
+	},
+	"minecraft:fire_age10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 51
+		}]
+	},
+	"minecraft:purpur_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 203
+		}]
+	},
+	"minecraft:pumpkin_stem_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 104
+		}]
+	},
+	"minecraft:cauldron_fill3": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 118
+		}]
+	},
+	"minecraft:cauldron_fill2": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 118
+		}]
+	},
+	"minecraft:cauldron_fill1": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 2,
+			"id": 118
+		}]
+	},
+	"minecraft:cauldron_fill0": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 1,
+			"id": 118
+		}]
+	},
+	"minecraft:cauldron_fill4": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 5,
+			"id": 118
+		}]
+	},
+	"minecraft:chain_command_block_down_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 189
+		}]
+	},
+	"minecraft:spurce_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 183
+		}]
+	},
+	"minecraft:yellow_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 171
+		}]
+	},
+	"minecraft:azure_bluet": {
+		"itermediate_bedrock_item": [{
+			"data": 3,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 38
+		}]
+	},
+	"minecraft:end_gateway": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 209
+		}]
+	},
+	"minecraft:banner_block_west_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 176
+		}]
+	},
+	"minecraft:red_sandstone_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 180
+		}]
+	},
+	"minecraft:light_blue_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 223
+		}]
+	},
+	"minecraft:sandstone_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 44
+		}]
+	},
+	"minecraft:sugar_canes_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 83
+		}]
+	},
+	"minecraft:acacia_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 196
+		}]
+	},
+	"minecraft:piston_head_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 34
+		}]
+	},
+	"minecraft:daylight_sensor_power14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 151
+		}]
+	},
+	"minecraft:pink_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 159
+		}]
+	},
+	"minecraft:flower_pot_birch_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 140
+		}]
+	},
+	"minecraft:birch_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 184
+		}]
+	},
+	"minecraft:jungle_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 185
+		}]
+	},
+	"minecraft:quartz_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 156
+		}]
+	},
+	"minecraft:large_fern_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 175
+		}]
+	},
+	"minecraft:frame_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 199
+		}]
+	},
+	"minecraft:furnace_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 61
+		}]
+	},
+	"minecraft:redstone_torch_inactive_torch_south": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 75
+		}]
+	},
+	"minecraft:enchantment_table": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 116
+		}]
+	},
+	"minecraft:standing_sign_block_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 63
+		}]
+	},
+	"minecraft:dropper_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 125
+		}]
+	},
+	"minecraft:spruce_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 134
+		}]
+	},
+	"minecraft:pink_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 237
+		}]
+	},
+	"minecraft:redstone_repeater_active_south_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_south_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_south_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_south_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 94
+		}]
+	},
+	"minecraft:trapped_chest_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 146
+		}]
+	},
+	"minecraft:gray_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:stone_cutter": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 245
+		}]
+	},
+	"minecraft:light_gray_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 228
+		}]
+	},
+	"minecraft:light_blue_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:jungle_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 195
+		}]
+	},
+	"minecraft:jungle_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 195
+		}]
+	},
+	"minecraft:wooden_button_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 143
+		}]
+	},
+	"minecraft:cauldron_empty": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 118
+		}]
+	},
+	"minecraft:spruce_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 17
+		}]
+	},
+	"minecraft:brown_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 236
+		}]
+	},
+	"minecraft:jungle_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 195
+		}]
+	},
+	"minecraft:iron_pressure_plate": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 148
+		}]
+	},
+	"minecraft:end_rod_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 208
+		}]
+	},
+	"minecraft:piston_head_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 34
+		}]
+	},
+	"minecraft:gravel": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 13
+		}]
+	},
+	"minecraft:flower_pot_jungle_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 140
+		}]
+	},
+	"minecraft:iron_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 71
+		}]
+	},
+	"minecraft:anvil_north_damaged1": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 145
+		}]
+	},
+	"minecraft:anvil_north_damaged0": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 145
+		}]
+	},
+	"minecraft:dead_bush": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 32
+		}]
+	},
+	"minecraft:lime_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 160
+		}]
+	},
+	"minecraft:blue_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 236
+		}]
+	},
+	"minecraft:white_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 160
+		}]
+	},
+	"minecraft:oak_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 107
+		}]
+	},
+	"minecraft:tripwire_hook_north_connected_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 131
+		}]
+	},
+	"minecraft:double_smooth_sandstone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 43
+		}]
+	},
+	"minecraft:peony_top": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 175
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_east_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 149
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 186
+		}]
+	},
+	"minecraft:brown_mushroom_block_stem_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 99
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 186
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 197
+		}]
+	},
+	"minecraft:beetroot_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 244
+		}]
+	},
+	"minecraft:standing_sign_block_north_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 63
+		}]
+	},
+	"minecraft:chiseled_quartz_block": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 155
+		}]
+	},
+	"minecraft:falling_lava_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 10
+		}]
+	},
+	"minecraft:falling_lava_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 10
+		}]
+	},
+	"minecraft:falling_lava_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 10
+		}]
+	},
+	"minecraft:falling_lava_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 10
+		}]
+	},
+	"minecraft:dark_oak_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 162
+		}]
+	},
+	"minecraft:falling_lava_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 10
+		}]
+	},
+	"minecraft:falling_lava_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 10
+		}]
+	},
+	"minecraft:orange_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 160
+		}]
+	},
+	"minecraft:anvil_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 145
+		}]
+	},
+	"minecraft:hopper_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 154
+		}]
+	},
+	"minecraft:command_block_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 137
+		}]
+	},
+	"minecraft:activator_rail_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 126
+		}]
+	},
+	"minecraft:black_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:cocoa_age1_north": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 127
+		}]
+	},
+	"minecraft:iron_trapdoor_north_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 167
+		}]
+	},
+	"minecraft:trapped_chest_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 146
+		}]
+	},
+	"minecraft:oak_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 18
+		}]
+	},
+	"minecraft:fern": {
+		"itermediate_bedrock_item": [{
+			"data": 2,
+			"id": 31
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 31
+		}]
+	},
+	"minecraft:blue_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_south_east": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 100
+		}]
+	},
+	"minecraft:end_portal_frame_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 120
+		}]
+	},
+	"minecraft:wall_mounted_banner_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 177
+		}]
+	},
+	"minecraft:activator_rail_ascending_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 126
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 149
+		}]
+	},
+	"minecraft:sticky_piston_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 29
+		}]
+	},
+	"minecraft:double_stone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 43
+		}]
+	},
+	"minecraft:birch_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 18
+		}]
+	},
+	"minecraft:flowing_water_source": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 8
+		}]
+	},
+	"minecraft:light_blue_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:tripwire_hook_north_connected": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 131
+		}]
+	},
+	"minecraft:lilac_top": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 175
+		}]
+	},
+	"minecraft:spurce_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 183
+		}]
+	},
+	"minecraft:wooden_trapdoor_north_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 96
+		}]
+	},
+	"minecraft:note_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 25
+		}]
+	},
+	"minecraft:chain_command_block_up_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 189
+		}]
+	},
+	"minecraft:chain_command_block_east_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 189
+		}]
+	},
+	"minecraft:iron_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 71
+		}]
+	},
+	"minecraft:cobblestone_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 44
+		}]
+	},
+	"minecraft:banner_block_north_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 176
+		}]
+	},
+	"minecraft:birch_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 135
+		}]
+	},
+	"minecraft:black_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 159
+		}]
+	},
+	"minecraft:wooden_button_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 143
+		}]
+	},
+	"minecraft:powered_rail_ascending_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 27
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 186
+		}]
+	},
+	"minecraft:grass": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 2
+		}]
+	},
+	"minecraft:blue_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 35
+		}]
+	},
+	"minecraft:packed_ice": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 174
+		}]
+	},
+	"minecraft:cobblestone_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 67
+		}]
+	},
+	"minecraft:blue_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:spruce_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 134
+		}]
+	},
+	"minecraft:powered_rail_ascending_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 27
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 197
+		}]
+	},
+	"minecraft:bedrock": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 7
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 186
+		}]
+	},
+	"minecraft:tripwire_hook_east_connected": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 131
+		}]
+	},
+	"minecraft:cocoa_age3_north": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 127
+		}]
+	},
+	"minecraft:spruce_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 18
+		}]
+	},
+	"minecraft:acacia_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 187
+		}]
+	},
+	"minecraft:sandstone_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 128
+		}]
+	},
+	"minecraft:prismarine_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 168
+		}]
+	},
+	"minecraft:iron_bars_north": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 101
+		}]
+	},
+	"minecraft:observer_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 251
+		}]
+	},
+	"minecraft:yellow_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 159
+		}]
+	},
+	"minecraft:cocoa_age1_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 127
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 100
+		}]
+	},
+	"minecraft:tripwire_detached_activated_disarmed": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 132
+		}]
+	},
+	"minecraft:magenta_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 222
+		}]
+	},
+	"minecraft:pink_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 226
+		}]
+	},
+	"minecraft:flower_pot_dandelion": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 140
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 164
+		}]
+	},
+	"minecraft:oak_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 53
+		}]
+	},
+	"minecraft:bed_foot_north_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 26
+		}]
+	},
+	"minecraft:flower_pot_dead_bush": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 140
+		}]
+	},
+	"minecraft:gray_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 171
+		}]
+	},
+	"minecraft:tripwire_detached": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 132
+		}]
+	},
+	"minecraft:flower_pot_red_mushroom": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 140
+		}]
+	},
+	"minecraft:wooden_button_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 143
+		}]
+	},
+	"minecraft:wheat_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 59
+		}]
+	},
+	"minecraft:wheat_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 59
+		}]
+	},
+	"minecraft:wheat_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 59
+		}]
+	},
+	"minecraft:vines_east": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 106
+		}]
+	},
+	"minecraft:wheat_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 59
+		}]
+	},
+	"minecraft:wheat_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 59
+		}]
+	},
+	"minecraft:wheat_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 59
+		}]
+	},
+	"minecraft:light_blue_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 160
+		}]
+	},
+	"minecraft:cyan_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 187
+		}]
+	},
+	"minecraft:blue_orchid": {
+		"itermediate_bedrock_item": [{
+			"data": 1,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 38
+		}]
+	},
+	"minecraft:iron_trapdoor_west_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 167
+		}]
+	},
+	"minecraft:dark_iron_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 197
+		}]
+	},
+	"minecraft:stone_brick_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 109
+		}]
+	},
+	"minecraft:brown_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:oak_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 158
+		}]
+	},
+	"minecraft:jungle_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 158
+		}]
+	},
+	"minecraft:iron_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 71
+		}]
+	},
+	"minecraft:light_blue_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 223
+		}]
+	},
+	"minecraft:falling_lava_source": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 10
+		}]
+	},
+	"minecraft:tnt_breakable": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 46
+		}]
+	},
+	"minecraft:gray_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 35
+		}]
+	},
+	"minecraft:wheat_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 59
+		}]
+	},
+	"minecraft:observer_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 251
+		}]
+	},
+	"minecraft:rail_curved_north_west": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 66
+		}]
+	},
+	"minecraft:still_lava_height8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 11
+		}]
+	},
+	"minecraft:magenta_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 171
+		}]
+	},
+	"minecraft:yellow_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 236
+		}]
+	},
+	"minecraft:wooden_trapdoor_south_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 96
+		}]
+	},
+	"minecraft:spruce_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 5
+		}]
+	},
+	"minecraft:nether_brick_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 114
+		}]
+	},
+	"minecraft:pink_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 226
+		}]
+	},
+	"minecraft:double_wooden_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 43
+		}]
+	},
+	"minecraft:falling_water_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 8
+		}]
+	},
+	"minecraft:pumpkin_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 86
+		}]
+	},
+	"minecraft:rail_ascending_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 66
+		}]
+	},
+	"minecraft:hopper_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 154
+		}]
+	},
+	"minecraft:birch_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 184
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 100
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 186
+		}]
+	},
+	"minecraft:activator_rail_ascending_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 126
+		}]
+	},
+	"minecraft:jungle_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 185
+		}]
+	},
+	"minecraft:iron_trapdoor_west_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 167
+		}]
+	},
+	"minecraft:dispenser_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 23
+		}]
+	},
+	"minecraft:wooden_trapdoor_south_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 96
+		}]
+	},
+	"minecraft:sticky_piston_head_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 34
+		}]
+	},
+	"minecraft:stone_pressure_plate": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 70
+		}]
+	},
+	"minecraft:quartz_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 156
+		}]
+	},
+	"minecraft:cobblestone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 4
+		}]
+	},
+	"minecraft:orange_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 221
+		}]
+	},
+	"minecraft:jungle_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 17
+		}]
+	},
+	"minecraft:spruce_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 134
+		}]
+	},
+	"minecraft:torch_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 50
+		}]
+	},
+	"minecraft:lime_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 225
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 197
+		}]
+	},
+	"minecraft:stone_brick_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 109
+		}]
+	},
+	"minecraft:command_block_up_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 137
+		}]
+	},
+	"minecraft:acacia_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 196
+		}]
+	},
+	"minecraft:cyan_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 229
+		}]
+	},
+	"minecraft:bone_vertical": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 216
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_east_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_east_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_east_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_east_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 93
+		}]
+	},
+	"minecraft:chain_command_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 189
+		}]
+	},
+	"minecraft:repeating_command_block_south_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 188
+		}]
+	},
+	"minecraft:pillar_quartz_block_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 155
+		}]
+	},
+	"minecraft:chiseled_sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 24
+		}]
+	},
+	"minecraft:jungle_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 17
+		}]
+	},
+	"minecraft:detector_rail_ascending_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 28
+		}]
+	},
+	"minecraft:birch_wood_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 53
+		}]
+	},
+	"minecraft:still_lava_height14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 11
+		}]
+	},
+	"minecraft:still_lava_height11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 11
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 197
+		}]
+	},
+	"minecraft:spruce_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 134
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_south_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 149
+		}]
+	},
+	"minecraft:brown_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:birch_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 17
+		}]
+	},
+	"minecraft:banner_block_south_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 176
+		}]
+	},
+	"minecraft:lit_furnace_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 62
+		}]
+	},
+	"minecraft:red_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 234
+		}]
+	},
+	"minecraft:jungle_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 136
+		}]
+	},
+	"minecraft:purpur_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 203
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 99
+		}]
+	},
+	"minecraft:dark_oak_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 6
+		}]
+	},
+	"minecraft:detector_rail_north_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 28
+		}]
+	},
+	"minecraft:lily_pad": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 111
+		}]
+	},
+	"minecraft:oak_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 64
+		}]
+	},
+	"minecraft:cobblestone_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 97
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 99
+		}]
+	},
+	"minecraft:pumpkin_stem_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 104
+		}]
+	},
+	"minecraft:still_water_source": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 9
+		}]
+	},
+	"minecraft:magenta_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 236
+		}]
+	},
+	"minecraft:lime_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 225
+		}]
+	},
+	"minecraft:jungle_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 185
+		}]
+	},
+	"minecraft:spruce_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 6
+		}]
+	},
+	"minecraft:blue_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:peony_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 175
+		}]
+	},
+	"minecraft:hopper_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 154
+		}]
+	},
+	"minecraft:nether_portal_x_axis": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 90
+		}]
+	},
+	"minecraft:acacia_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 196
+		}]
+	},
+	"minecraft:iron_trapdoor_west_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 167
+		}]
+	},
+	"minecraft:nether_portal_unknown_axis": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 90
+		}]
+	},
+	"minecraft:cake_block_missing5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 92
+		}]
+	},
+	"minecraft:cake_block_missing4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 92
+		}]
+	},
+	"minecraft:cake_block_missing3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 92
+		}]
+	},
+	"minecraft:cake_block_missing2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 92
+		}]
+	},
+	"minecraft:cake_block_missing1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 92
+		}]
+	},
+	"minecraft:blue_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 159
+		}]
+	},
+	"minecraft:acacia_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 187
+		}]
+	},
+	"minecraft:powered_rail_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 27
+		}]
+	},
+	"minecraft:chain_command_block_south_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 189
+		}]
+	},
+	"minecraft:pink_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:magenta_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 222
+		}]
+	},
+	"minecraft:daylight_sensor_power13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 151
+		}]
+	},
+	"minecraft:birch_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 194
+		}]
+	},
+	"minecraft:purple_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 219
+		}]
+	},
+	"minecraft:light_blue_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 223
+		}]
+	},
+	"minecraft:acacia_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 187
+		}]
+	},
+	"minecraft:jungle_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 185
+		}]
+	},
+	"minecraft:end_portal_frame_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 120
+		}]
+	},
+	"minecraft:pumpkin_north_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 86
+		}]
+	},
+	"minecraft:lime_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:jungle_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 185
+		}]
+	},
+	"minecraft:redstone_comparator_active_west_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 150
+		}]
+	},
+	"minecraft:cyan_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:yellow_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 224
+		}]
+	},
+	"minecraft:oak_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 107
+		}]
+	},
+	"minecraft:wooden_button_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 143
+		}]
+	},
+	"minecraft:iron_bars_south": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 101
+		}]
+	},
+	"minecraft:white_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:pumpkin_south_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 86
+		}]
+	},
+	"minecraft:jungle_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 195
+		}]
+	},
+	"minecraft:wheat_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 59
+		}]
+	},
+	"minecraft:bed_head_east_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 26
+		}]
+	},
+	"minecraft:sticky_piston_east_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 29
+		}]
+	},
+	"minecraft:spruce_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 193
+		}]
+	},
+	"minecraft:melon_stem_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 105
+		}]
+	},
+	"minecraft:ladder_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 65
+		}]
+	},
+	"minecraft:jacko_lantern_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 91
+		}]
+	},
+	"minecraft:red_mushroom_block_stem_and_pores": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 100
+		}]
+	},
+	"minecraft:oak_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 107
+		}]
+	},
+	"minecraft:lever_top_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 69
+		}]
+	},
+	"minecraft:melon_stem_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 105
+		}]
+	},
+	"minecraft:granite": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 1
+		}]
+	},
+	"minecraft:furnace_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 61
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_south_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_south_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_south_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_south_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 93
+		}]
+	},
+	"minecraft:yellow_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 224
+		}]
+	},
+	"minecraft:wooden_button_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 143
+		}]
+	},
+	"minecraft:red_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 236
+		}]
+	},
+	"minecraft:banner_block_east_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 176
+		}]
+	},
+	"minecraft:jungle_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 195
+		}]
+	},
+	"minecraft:acacia_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 163
+		}]
+	},
+	"minecraft:tripwire_hook_south_connected": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 131
+		}]
+	},
+	"minecraft:iron_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 42
+		}]
+	},
+	"minecraft:pink_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 226
+		}]
+	},
+	"minecraft:tripwire_hook_west_connected": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 131
+		}]
+	},
+	"minecraft:stone_button_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 77
+		}]
+	},
+	"minecraft:cactus_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 81
+		}]
+	},
+	"minecraft:cocoa_age1_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 127
+		}]
+	},
+	"minecraft:wooden_trapdoor_west_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 96
+		}]
+	},
+	"minecraft:bed_foot_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 26
+		}]
+	},
+	"minecraft:stone_button_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 77
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 99
+		}]
+	},
+	"minecraft:jungle_wood_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 53
+		}]
+	},
+	"minecraft:cyan_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 237
+		}]
+	},
+	"minecraft:piston_south_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 33
+		}]
+	},
+	"minecraft:birch_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 184
+		}]
+	},
+	"minecraft:double_smooth_stone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 43
+		}]
+	},
+	"minecraft:oxeye_daisy": {
+		"itermediate_bedrock_item": [{
+			"data": 8,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 38
+		}]
+	},
+	"minecraft:sticky_piston_south_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 29
+		}]
+	},
+	"minecraft:redstone_comparator_active_east_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 150
+		}]
+	},
+	"minecraft:light_gray_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 35
+		}]
+	},
+	"minecraft:quartz_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 44
+		}]
+	},
+	"minecraft:tripwire_hook_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 131
+		}]
+	},
+	"minecraft:piston_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 33
+		}]
+	},
+	"minecraft:powered_rail_north_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 27
+		}]
+	},
+	"minecraft:hay_bale_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 170
+		}]
+	},
+	"minecraft:stone_button_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 77
+		}]
+	},
+	"minecraft:activator_rail_ascending_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 126
+		}]
+	},
+	"minecraft:yellow_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:oak_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 85
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_east_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 149
+		}]
+	},
+	"minecraft:purple_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:frame_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 199
+		}]
+	},
+	"minecraft:oak_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 64
+		}]
+	},
+	"minecraft:shrub": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 31
+		}]
+	},
+	"minecraft:falling_water_source": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 8
+		}]
+	},
+	"minecraft:purple_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 160
+		}]
+	},
+	"minecraft:oak_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 64
+		}]
+	},
+	"minecraft:cactus_age14": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 81
+		}]
+	},
+	"minecraft:rail_ascending_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 66
+		}]
+	},
+	"minecraft:cactus_age11": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age10": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age13": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age12": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 81
+		}]
+	},
+	"minecraft:standing_sign_block_south_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 63
+		}]
+	},
+	"minecraft:lit_furnace_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 62
+		}]
+	},
+	"minecraft:iron_bars_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 101
+		}]
+	},
+	"minecraft:wooden_trapdoor_west_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 96
+		}]
+	},
+	"minecraft:purple_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 219
+		}]
+	},
+	"minecraft:standing_sign_block_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 63
+		}]
+	},
+	"minecraft:birch_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 6
+		}]
+	},
+	"minecraft:light_blue_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:spruce_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 193
+		}]
+	},
+	"minecraft:standing_sign_block_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 63
+		}]
+	},
+	"minecraft:diamond_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 57
+		}]
+	},
+	"minecraft:iron_trapdoor_south_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 167
+		}]
+	},
+	"minecraft:red_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 160
+		}]
+	},
+	"minecraft:repeating_command_block_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 188
+		}]
+	},
+	"minecraft:repeating_command_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 188
+		}]
+	},
+	"minecraft:potatoes_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 142
+		}]
+	},
+	"minecraft:powered_rail_ascending_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 27
+		}]
+	},
+	"minecraft:orange_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:rose_bush_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 175
+		}]
+	},
+	"minecraft:oak_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 107
+		}]
+	},
+	"minecraft:powered_rail_ascending_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 27
+		}]
+	},
+	"minecraft:oak_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 53
+		}]
+	},
+	"minecraft:blue_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 231
+		}]
+	},
+	"minecraft:orange_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:ender_chest_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 130
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 100
+		}]
+	},
+	"minecraft:gray_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 236
+		}]
+	},
+	"minecraft:green_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 171
+		}]
+	},
+	"minecraft:jacko_lantern_north_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 91
+		}]
+	},
+	"minecraft:piston_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 33
+		}]
+	},
+	"minecraft:redstone_comparator_active_east": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 150
+		}]
+	},
+	"minecraft:birch_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 194
+		}]
+	},
+	"minecraft:command_block_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 137
+		}]
+	},
+	"minecraft:light_blue_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 236
+		}]
+	},
+	"minecraft:pumpkin_stem_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 104
+		}]
+	},
+	"minecraft:pumpkin_stem_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 104
+		}]
+	},
+	"minecraft:cactus": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 81
+		}]
+	},
+	"minecraft:pumpkin_stem_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 104
+		}]
+	},
+	"minecraft:pumpkin_stem_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 104
+		}]
+	},
+	"minecraft:pumpkin_stem_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 104
+		}]
+	},
+	"minecraft:purple_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 35
+		}]
+	},
+	"minecraft:observer_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 251
+		}]
+	},
+	"minecraft:dark_oak_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 85
+		}]
+	},
+	"minecraft:piston_head_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 34
+		}]
+	},
+	"minecraft:dark_iron_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 197
+		}]
+	},
+	"minecraft:redstone_comparator_active_east_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 150
+		}]
+	},
+	"minecraft:pillar_quartz_block_vertical": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 155
+		}]
+	},
+	"minecraft:oak_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 18
+		}]
+	},
+	"minecraft:deadbush": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 32
+		}]
+	},
+	"minecraft:acacia_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 187
+		}]
+	},
+	"minecraft:acacia_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 163
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 186
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 197
+		}]
+	},
+	"minecraft:wooden_button_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 143
+		}]
+	},
+	"minecraft:spurce_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 183
+		}]
+	},
+	"minecraft:sandstone_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 128
+		}]
+	},
+	"minecraft:jacko_lantern_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 91
+		}]
+	},
+	"minecraft:birch_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 184
+		}]
+	},
+	"minecraft:wooden_trapdoor_north_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 96
+		}]
+	},
+	"minecraft:chest_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 54
+		}]
+	},
+	"minecraft:cocoa_age3_east": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 127
+		}]
+	},
+	"minecraft:lime_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:dragon_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 122
+		}]
+	},
+	"minecraft:lever_top_north_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 69
+		}]
+	},
+	"minecraft:lever_side_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 69
+		}]
+	},
+	"minecraft:lime_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:purpur_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 203
+		}]
+	},
+	"minecraft:white_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 237
+		}]
+	},
+	"minecraft:dirt": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 3
+		}]
+	},
+	"minecraft:lever_side_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 69
+		}]
+	},
+	"minecraft:detector_rail_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 28
+		}]
+	},
+	"minecraft:anvil_south_damaged1": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 145
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_north_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 99
+		}]
+	},
+	"minecraft:dead_shrub": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 31
+		}]
+	},
+	"minecraft:anvil_south_damaged0": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 145
+		}]
+	},
+	"minecraft:birch_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 194
+		}]
+	},
+	"minecraft:redstone_torch_active_torch_south": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 76
+		}]
+	},
+	"minecraft:snow_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 80
+		}]
+	},
+	"minecraft:light_gray_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:repeating_command_block_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 188
+		}]
+	},
+	"minecraft:barrier": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 95
+		}]
+	},
+	"minecraft:sandstone_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 128
+		}]
+	},
+	"minecraft:sticky_piston_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 29
+		}]
+	},
+	"minecraft:spurce_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 183
+		}]
+	},
+	"minecraft:spruce_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 17
+		}]
+	},
+	"minecraft:allium": {
+		"itermediate_bedrock_item": [{
+			"data": 2,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 38
+		}]
+	},
+	"minecraft:jungle_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 195
+		}]
+	},
+	"minecraft:birch_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 194
+		}]
+	},
+	"minecraft:wooden_trapdoor_south_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 96
+		}]
+	},
+	"minecraft:lapis_lazuli_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 22
+		}]
+	},
+	"minecraft:dark_oak_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 5,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 6
+		}]
+	},
+	"minecraft:jungle_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 185
+		}]
+	},
+	"minecraft:wooden_trapdoor_east_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 96
+		}]
+	},
+	"minecraft:double_quartz_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 43
+		}]
+	},
+	"minecraft:jungle_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 185
+		}]
+	},
+	"minecraft:cobblestone_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 67
+		}]
+	},
+	"minecraft:lever_side_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 69
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_east": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 100
+		}]
+	},
+	"minecraft:carrots_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 141
+		}]
+	},
+	"minecraft:gray_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 227
+		}]
+	},
+	"minecraft:sugar_canes_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 83
+		}]
+	},
+	"minecraft:oak_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 64
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_west_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 149
+		}]
+	},
+	"minecraft:dark_oak_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 162
+		}]
+	},
+	"minecraft:sugar_canes_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 83
+		}]
+	},
+	"minecraft:cyan_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 160
+		}]
+	},
+	"minecraft:red_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 241
+		}]
+	},
+	"minecraft:spruce_wood_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 53
+		}]
+	},
+	"minecraft:cobblestone_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 67
+		}]
+	},
+	"minecraft:double_dark_oak_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 157
+		}]
+	},
+	"minecraft:red_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 234
+		}]
+	},
+	"minecraft:dispenser_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 23
+		}]
+	},
+	"minecraft:gray_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:purpur_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 201
+		}]
+	},
+	"minecraft:dropper_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 125
+		}]
+	},
+	"minecraft:lime_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 237
+		}]
+	},
+	"minecraft:birch_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 184
+		}]
+	},
+	"minecraft:green_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 35
+		}]
+	},
+	"minecraft:redstone_comparator_active_north": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 150
+		}]
+	},
+	"minecraft:lime_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 35
+		}]
+	},
+	"minecraft:lit_furnace_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 62
+		}]
+	},
+	"minecraft:flowing_lava_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 10
+		}]
+	},
+	"minecraft:flowing_lava_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 10
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 164
+		}]
+	},
+	"minecraft:acacia_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 162
+		}]
+	},
+	"minecraft:green_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 159
+		}]
+	},
+	"minecraft:tripwire_suspended_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 132
+		}]
+	},
+	"minecraft:iron_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 15
+		}]
+	},
+	"minecraft:birch_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 194
+		}]
+	},
+	"minecraft:cocoa_age2_south": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 127
+		}]
+	},
+	"minecraft:wooden_pressure_plate_active": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 72
+		}]
+	},
+	"minecraft:wooden_trapdoor_west_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 96
+		}]
+	},
+	"minecraft:iron_trapdoor_north_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 167
+		}]
+	},
+	"minecraft:gray_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 227
+		}]
+	},
+	"minecraft:dark_iron_door_top_right_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 197
+		}]
+	},
+	"minecraft:dark_oak_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 161
+		}]
+	},
+	"minecraft:sticky_piston_head_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 34
+		}]
+	},
+	"minecraft:gray_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 241
+		}]
+	},
+	"minecraft:chain_command_block_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 189
+		}]
+	},
+	"minecraft:flower_pot_acacia_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 140
+		}]
+	},
+	"minecraft:frame_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 199
+		}]
+	},
+	"minecraft:acacia_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 187
+		}]
+	},
+	"minecraft:stone_button_up_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 77
+		}]
+	},
+	"minecraft:acacia_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 196
+		}]
+	},
+	"minecraft:vines_west": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 106
+		}]
+	},
+	"minecraft:dropper_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 125
+		}]
+	},
+	"minecraft:white_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 241
+		}]
+	},
+	"minecraft:jungle_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 136
+		}]
+	},
+	"minecraft:redstone_repeater_active_north_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_torch_inactive_torch_up": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 75
+		}]
+	},
+	"minecraft:redstone_repeater_active_north_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_north_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 94
+		}]
+	},
+	"minecraft:redstone_repeater_active_north_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 94
+		}]
+	},
+	"minecraft:bone_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 216
+		}]
+	},
+	"minecraft:farmland_hydration6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 60
+		}]
+	},
+	"minecraft:farmland_hydration1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 60
+		}]
+	},
+	"minecraft:jungle_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 195
+		}]
+	},
+	"minecraft:standing_sign_block_south_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 63
+		}]
+	},
+	"minecraft:light_blue_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 237
+		}]
+	},
+	"minecraft:smooth_red_sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 179
+		}]
+	},
+	"minecraft:chain_command_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 189
+		}]
+	},
+	"minecraft:dispenser_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 23
+		}]
+	},
+	"minecraft:light_blue_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 241
+		}]
+	},
+	"minecraft:stone_brick_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 109
+		}]
+	},
+	"minecraft:birch_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 184
+		}]
+	},
+	"minecraft:piston_down_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 33
+		}]
+	},
+	"minecraft:dropper_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 125
+		}]
+	},
+	"minecraft:piston_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 33
+		}]
+	},
+	"minecraft:brick_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 108
+		}]
+	},
+	"minecraft:wall_mounted_sign_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 68
+		}]
+	},
+	"minecraft:ladder_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 65
+		}]
+	},
+	"minecraft:purple_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 159
+		}]
+	},
+	"minecraft:wall_mounted_sign_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 68
+		}]
+	},
+	"minecraft:iron_bars_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 101
+		}]
+	},
+	"minecraft:ice": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 79
+		}]
+	},
+	"minecraft:purple_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_north_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 100
+		}]
+	},
+	"minecraft:spruce_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 17
+		}]
+	},
+	"minecraft:chiseled_stone_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 98
+		}]
+	},
+	"minecraft:wooden_trapdoor_north_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 96
+		}]
+	},
+	"minecraft:redstone_torch_active_torch_up": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 76
+		}]
+	},
+	"minecraft:oak_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 64
+		}]
+	},
+	"minecraft:tripwire_attached_activated_disarmed": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 132
+		}]
+	},
+	"minecraft:oak_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 64
+		}]
+	},
+	"minecraft:dispenser_up_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 23
+		}]
+	},
+	"minecraft:pink_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 35
+		}]
+	},
+	"minecraft:birch_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 184
+		}]
+	},
+	"minecraft:birch_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 17
+		}]
+	},
+	"minecraft:chorus_flower_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 200
+		}]
+	},
+	"minecraft:chorus_flower_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 200
+		}]
+	},
+	"minecraft:chorus_flower_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 200
+		}]
+	},
+	"minecraft:chorus_flower_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 200
+		}]
+	},
+	"minecraft:acacia_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 158
+		}]
+	},
+	"minecraft:redstone_lamp_active": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 124
+		}]
+	},
+	"minecraft:wall_mounted_banner_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 177
+		}]
+	},
+	"minecraft:cocoa_age2_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 127
+		}]
+	},
+	"minecraft:orange_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 221
+		}]
+	},
+	"minecraft:gray_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 160
+		}]
+	},
+	"minecraft:pumpkin_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 86
+		}]
+	},
+	"minecraft:tripwire_hook_east_connected_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 131
+		}]
+	},
+	"minecraft:oak_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 53
+		}]
+	},
+	"minecraft:nether_brick_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 114
+		}]
+	},
+	"minecraft:bed_foot_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 26
+		}]
+	},
+	"minecraft:black_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 171
+		}]
+	},
+	"minecraft:acacia_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 162
+		}]
+	},
+	"minecraft:brick_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 108
+		}]
+	},
+	"minecraft:jungle_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 185
+		}]
+	},
+	"minecraft:light_blue_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:redstone_torch_inactive_torch_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 75
+		}]
+	},
+	"minecraft:acacia_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 158
+		}]
+	},
+	"minecraft:birch_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 184
+		}]
+	},
+	"minecraft:white_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 220
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 178
+		}]
+	},
+	"minecraft:stone_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 97
+		}]
+	},
+	"minecraft:activator_rail_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 126
+		}]
+	},
+	"minecraft:ender_chest_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 130
+		}]
+	},
+	"minecraft:ender_chest_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 130
+		}]
+	},
+	"minecraft:acacia_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 196
+		}]
+	},
+	"minecraft:still_water_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 9
+		}]
+	},
+	"minecraft:chain_command_block_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 189
+		}]
+	},
+	"minecraft:still_water_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 9
+		}]
+	},
+	"minecraft:wooden_trapdoor_east_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 96
+		}]
+	},
+	"minecraft:acacia_wood_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 53
+		}]
+	},
+	"minecraft:large_fern_top": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 175
+		}]
+	},
+	"minecraft:flower_pot_spruce_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 140
+		}]
+	},
+	"minecraft:brown_mushroom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 39
+		}]
+	},
+	"minecraft:dark_oak_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 158
+		}]
+	},
+	"minecraft:torch_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 50
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 164
+		}]
+	},
+	"minecraft:tripwire_detached_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 132
+		}]
+	},
+	"minecraft:blue_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 241
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 164
+		}]
+	},
+	"minecraft:lever_top_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 69
+		}]
+	},
+	"minecraft:polished_diorite": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 1
+		}]
+	},
+	"minecraft:crafting_table": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 58
+		}]
+	},
+	"minecraft:magenta_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 222
+		}]
+	},
+	"minecraft:sandstone_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 128
+		}]
+	},
+	"minecraft:nether_brick_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 113
+		}]
+	},
+	"minecraft:detector_rail_east_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 28
+		}]
+	},
+	"minecraft:mycelium": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 110
+		}]
+	},
+	"minecraft:double_birch_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 157
+		}]
+	},
+	"minecraft:jungle_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 136
+		}]
+	},
+	"minecraft:brown_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 232
+		}]
+	},
+	"minecraft:spurce_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 183
+		}]
+	},
+	"minecraft:dispenser_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 23
+		}]
+	},
+	"minecraft:pink_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 226
+		}]
+	},
+	"minecraft:lever_side_east": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 69
+		}]
+	},
+	"minecraft:oak_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 64
+		}]
+	},
+	"minecraft:redstone_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 152
+		}]
+	},
+	"minecraft:stone_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 44
+		}]
+	},
+	"minecraft:detector_rail_ascending_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 28
+		}]
+	},
+	"minecraft:orange_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 221
+		}]
+	},
+	"minecraft:birch_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 194
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_north": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 149
+		}]
+	},
+	"minecraft:structure_void": {
+		"itermediate_bedrock_block": [{
+			"PC_comment_id": 217,
+			"data": 0,
+			"id": 0
+		}]
+	},
+	"minecraft:lever_top_east_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 69
+		}]
+	},
+	"minecraft:green_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 233
+		}]
+	},
+	"minecraft:piston_west_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 33
+		}]
+	},
+	"minecraft:jungle_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 185
+		}]
+	},
+	"minecraft:stone_brick_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 109
+		}]
+	},
+	"minecraft:bed_head_east": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 26
+		}]
+	},
+	"minecraft:beacon": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 138
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 197
+		}]
+	},
+	"minecraft:black_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 236
+		}]
+	},
+	"minecraft:cobblestone_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 139
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 99
+		}]
+	},
+	"minecraft:double_cobblestone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 43
+		}]
+	},
+	"minecraft:pillar_quartz_block_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 155
+		}]
+	},
+	"minecraft:white_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 171
+		}]
+	},
+	"minecraft:green_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_west_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 149
+		}]
+	},
+	"minecraft:daylight_sensor_power6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 151
+		}]
+	},
+	"minecraft:green_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:daylight_sensor_power0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 151
+		}]
+	},
+	"minecraft:daylight_sensor_power9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 151
+		}]
+	},
+	"minecraft:sponge": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 19
+		}]
+	},
+	"minecraft:red_sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 179
+		}]
+	},
+	"minecraft:light_gray_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 236
+		}]
+	},
+	"minecraft:flower_pot_poppy": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 140
+		}]
+	},
+	"minecraft:wooden_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 44
+		}]
+	},
+	"minecraft:lime_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 159
+		}]
+	},
+	"minecraft:birch_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 135
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 178
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 178
+		}]
+	},
+	"minecraft:spruce_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 193
+		}]
+	},
+	"minecraft:daylight_sensor_inverted_power10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 178
+		}]
+	},
+	"minecraft:brown_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 160
+		}]
+	},
+	"minecraft:sandstone_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 128
+		}]
+	},
+	"minecraft:cracked_stone_brick_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 97
+		}]
+	},
+	"minecraft:standing_sign_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 63
+		}]
+	},
+	"minecraft:end_portal_frame_west_filled": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 120
+		}]
+	},
+	"minecraft:cracked_stone_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 98
+		}]
+	},
+	"minecraft:iron_trapdoor_east_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 167
+		}]
+	},
+	"minecraft:tripwire_attached": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 132
+		}]
+	},
+	"minecraft:fire_age14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 51
+		}]
+	},
+	"minecraft:fire_age13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 51
+		}]
+	},
+	"minecraft:acacia_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 196
+		}]
+	},
+	"minecraft:fire_age11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 51
+		}]
+	},
+	"minecraft:brown_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 237
+		}]
+	},
+	"minecraft:purpur_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 203
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 186
+		}]
+	},
+	"minecraft:birch_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 184
+		}]
+	},
+	"minecraft:sticky_piston_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 29
+		}]
+	},
+	"minecraft:oak_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 64
+		}]
+	},
+	"minecraft:double_brick_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 43
+		}]
+	},
+	"minecraft:hay_bale_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 170
+		}]
+	},
+	"minecraft:pink_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 236
+		}]
+	},
+	"minecraft:beetroot_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age2": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 1,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age4": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 3,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age6": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 5,
+			"id": 244
+		}]
+	},
+	"minecraft:beetroot_age7": {
+		"itermediate_bedrock_block": [{
+			"_comment": "does not have PC mapping",
+			"data": 6,
+			"id": 244
+		}]
+	},
+	"minecraft:jacko_lantern_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 91
+		}]
+	},
+	"minecraft:purpur_double_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 181
+		}]
+	},
+	"minecraft:mossy_cobblestone_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 139
+		}]
+	},
+	"minecraft:light_gray_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:command_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 137
+		}]
+	},
+	"minecraft:birch_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 184
+		}]
+	},
+	"minecraft:double_sandstone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 43
+		}]
+	},
+	"minecraft:detector_rail_ascending_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 28
+		}]
+	},
+	"minecraft:spurce_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 183
+		}]
+	},
+	"minecraft:chain_command_block_west_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 189
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 186
+		}]
+	},
+	"minecraft:gold_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 41
+		}]
+	},
+	"minecraft:lever_bottom_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 69
+		}]
+	},
+	"minecraft:repeating_command_block_north_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 188
+		}]
+	},
+	"minecraft:coal_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 173
+		}]
+	},
+	"minecraft:white_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:oak_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 53
+		}]
+	},
+	"minecraft:banner_block_north_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 176
+		}]
+	},
+	"minecraft:green_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 162
+		}]
+	},
+	"minecraft:yellow_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 237
+		}]
+	},
+	"minecraft:magenta_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:skull_south_on_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 144
+		}]
+	},
+	"minecraft:dropper_down_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 125
+		}]
+	},
+	"minecraft:stone_button_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 77
+		}]
+	},
+	"minecraft:glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 102
+		}]
+	},
+	"minecraft:magenta_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 159
+		}]
+	},
+	"minecraft:black_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 237
+		}]
+	},
+	"minecraft:spruce_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 134
+		}]
+	},
+	"minecraft:white_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:red_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 234
+		}]
+	},
+	"minecraft:magenta_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:lapis_lazuli_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 21
+		}]
+	},
+	"minecraft:melon_stem_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 105
+		}]
+	},
+	"minecraft:melon_stem_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 105
+		}]
+	},
+	"minecraft:banner_block_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 176
+		}]
+	},
+	"minecraft:melon_stem_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 105
+		}]
+	},
+	"minecraft:melon_stem_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 105
+		}]
+	},
+	"minecraft:melon_stem_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 105
+		}]
+	},
+	"minecraft:spurce_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 183
+		}]
+	},
+	"minecraft:black_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:gold_pressure_plate_active": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 147
+		}]
+	},
+	"minecraft:stone_brick_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 44
+		}]
+	},
+	"minecraft:skull_west_on_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 144
+		}]
+	},
+	"minecraft:light_gray_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:cobblestone_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 67
+		}]
+	},
+	"minecraft:end_stone_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 206
+		}]
+	},
+	"minecraft:white_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 35
+		}]
+	},
+	"minecraft:torch_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 50
+		}]
+	},
+	"minecraft:sticky_piston_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 29
+		}]
+	},
+	"minecraft:brick_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 108
+		}]
+	},
+	"minecraft:banner_block_west_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 176
+		}]
+	},
+	"minecraft:piston_north_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 33
+		}]
+	},
+	"minecraft:redstone_comparator_active_south_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 150
+		}]
+	},
+	"minecraft:birch_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 135
+		}]
+	},
+	"minecraft:glowstone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 89
+		}]
+	},
+	"minecraft:magenta_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 237
+		}]
+	},
+	"minecraft:frame_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 199
+		}]
+	},
+	"minecraft:stone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 1
+		}]
+	},
+	"minecraft:yellow_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:light_gray_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 241
+		}]
+	},
+	"minecraft:furnace_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 61
+		}]
+	},
+	"minecraft:jungle_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 18
+		}]
+	},
+	"minecraft:red_sandstone_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 180
+		}]
+	},
+	"minecraft:double_jungle_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 157
+		}]
+	},
+	"minecraft:bed_head_south_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 26
+		}]
+	},
+	"minecraft:acacia_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 187
+		}]
+	},
+	"minecraft:spurce_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 183
+		}]
+	},
+	"minecraft:green_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 233
+		}]
+	},
+	"minecraft:jungle_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 17
+		}]
+	},
+	"minecraft:oak_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 17
+		}]
+	},
+	"minecraft:oak_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 107
+		}]
+	},
+	"minecraft:spurce_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 183
+		}]
+	},
+	"minecraft:red_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:birch_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 18
+		}]
+	},
+	"minecraft:wooden_button_up_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 143
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 100
+		}]
+	},
+	"minecraft:brown_mushroom_block_stem_and_pores": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 99
+		}]
+	},
+	"minecraft:magenta_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:pink_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 161
+		}]
+	},
+	"minecraft:red_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:black_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 35
+		}]
+	},
+	"minecraft:standing_sign_block_north_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 63
+		}]
+	},
+	"minecraft:red_sandstone_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 182
+		}]
+	},
+	"minecraft:lime_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 236
+		}]
+	},
+	"minecraft:skull_north_on_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 144
+		}]
+	},
+	"minecraft:cyan_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:anvil_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 145
+		}]
+	},
+	"minecraft:standing_sign_block_west_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 63
+		}]
+	},
+	"minecraft:poppy": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 38
+		}]
+	},
+	"minecraft:melon_stem_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 105
+		}]
+	},
+	"minecraft:detector_rail_ascending_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 28
+		}]
+	},
+	"minecraft:redstone_wire_power5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power9": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 55
+		}]
+	},
+	"minecraft:redstone_wire_power8": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 55
+		}]
+	},
+	"minecraft:cactus_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 81
+		}]
+	},
+	"minecraft:purpur_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 203
+		}]
+	},
+	"minecraft:end_portal": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 119
+		}]
+	},
+	"minecraft:anvil_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 145
+		}]
+	},
+	"minecraft:cactus_age9": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 81
+		}]
+	},
+	"minecraft:cactus_age8": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 81
+		}]
+	},
+	"minecraft:birch_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 158
+		}]
+	},
+	"minecraft:cyan_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:lime_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 225
+		}]
+	},
+	"minecraft:podzol": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 243
+		}]
+	},
+	"minecraft:brown_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 241
+		}]
+	},
+	"minecraft:birch_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 184
+		}]
+	},
+	"minecraft:iron_trapdoor_east_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 167
+		}]
+	},
+	"minecraft:hopper_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 154
+		}]
+	},
+	"minecraft:purple_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 171
+		}]
+	},
+	"minecraft:jungle_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 136
+		}]
+	},
+	"minecraft:iron_trapdoor_west_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 167
+		}]
+	},
+	"minecraft:dropper_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 125
+		}]
+	},
+	"minecraft:light_gray_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 228
+		}]
+	},
+	"minecraft:birch_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 184
+		}]
+	},
+	"minecraft:tripwire_hook_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 131
+		}]
+	},
+	"minecraft:oak_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 53
+		}]
+	},
+	"minecraft:polished_granite": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 1
+		}]
+	},
+	"minecraft:ladder_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 65
+		}]
+	},
+	"minecraft:cobblestone_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 67
+		}]
+	},
+	"minecraft:bed_head_north_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 26
+		}]
+	},
+	"minecraft:jungle_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 185
+		}]
+	},
+	"minecraft:tripwire_detached_disarmed": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 132
+		}]
+	},
+	"minecraft:oak_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 53
+		}]
+	},
+	"minecraft:purpur_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 182
+		}]
+	},
+	"minecraft:command_block_east_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 137
+		}]
+	},
+	"minecraft:spruce_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 134
+		}]
+	},
+	"minecraft:birch_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 194
+		}]
+	},
+	"minecraft:brewing_stand_bottles12": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 117
+		}]
+	},
+	"minecraft:brewing_stand_bottles13": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 117
+		}]
+	},
+	"minecraft:purpur_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 203
+		}]
+	},
+	"minecraft:brown_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:pink_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 241
+		}]
+	},
+	"minecraft:emerald_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 129
+		}]
+	},
+	"minecraft:birch_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 17
+		}]
+	},
+	"minecraft:dispenser_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 23
+		}]
+	},
+	"minecraft:oak_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 5
+		}]
+	},
+	"minecraft:black_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 235
+		}]
+	},
+	"minecraft:andesite": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 1
+		}]
+	},
+	"minecraft:brown_mushroom_block_pores_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 99
+		}]
+	},
+	"minecraft:redstone_lamp_inactive": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 123
+		}]
+	},
+	"minecraft:red_sandstone_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 180
+		}]
+	},
+	"minecraft:wooden_trapdoor_north_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 96
+		}]
+	},
+	"minecraft:birch_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 17
+		}]
+	},
+	"minecraft:smooth_sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 24
+		}]
+	},
+	"minecraft:iron_trapdoor_north_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 167
+		}]
+	},
+	"minecraft:bed_head_west_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 26
+		}]
+	},
+	"minecraft:green_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:pink_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 171
+		}]
+	},
+	"minecraft:wet_sponge": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 19
+		}]
+	},
+	"minecraft:orange_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 171
+		}]
+	},
+	"minecraft:redstone_comparator_active_east_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 150
+		}]
+	},
+	"minecraft:sticky_piston_head_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 34
+		}]
+	},
+	"minecraft:white_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 220
+		}]
+	},
+	"minecraft:chest_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 54
+		}]
+	},
+	"minecraft:acacia_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 161
+		}]
+	},
+	"minecraft:quartz_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 156
+		}]
+	},
+	"minecraft:nether_portal_z_axis": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 90
+		}]
+	},
+	"minecraft:quartz_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 156
+		}]
+	},
+	"minecraft:brick_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 44
+		}]
+	},
+	"minecraft:birch_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 194
+		}]
+	},
+	"minecraft:acacia_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 161
+		}]
+	},
+	"minecraft:yellow_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 160
+		}]
+	},
+	"minecraft:cyan_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 159
+		}]
+	},
+	"minecraft:redstone_comparator_active_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 150
+		}]
+	},
+	"minecraft:stone_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 98
+		}]
+	},
+	"minecraft:sugar_canes_age14": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 83
+		}]
+	},
+	"minecraft:coarse_dirt": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 3
+		}]
+	},
+	"minecraft:sugar_canes_age12": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age13": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age10": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 83
+		}]
+	},
+	"minecraft:sugar_canes_age11": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 83
+		}]
+	},
+	"minecraft:white_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:cyan_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 229
+		}]
+	},
+	"minecraft:sticky_piston_head_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 34
+		}]
+	},
+	"minecraft:wooden_trapdoor_south_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 96
+		}]
+	},
+	"minecraft:green_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:blue_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 231
+		}]
+	},
+	"minecraft:oak_fence_gate_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 107
+		}]
+	},
+	"minecraft:oak_wood_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 17
+		}]
+	},
+	"minecraft:orange_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 236
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_south_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 149
+		}]
+	},
+	"minecraft:command_block_down_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 137
+		}]
+	},
+	"minecraft:orange_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:falling_water_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 8
+		}]
+	},
+	"minecraft:falling_water_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 8
+		}]
+	},
+	"minecraft:falling_water_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 8
+		}]
+	},
+	"minecraft:observer_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 251
+		}]
+	},
+	"minecraft:falling_water_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 8
+		}]
+	},
+	"minecraft:falling_water_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 8
+		}]
+	},
+	"minecraft:falling_water_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 8
+		}]
+	},
+	"minecraft:piston_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 33
+		}]
+	},
+	"minecraft:green_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 233
+		}]
+	},
+	"minecraft:end_rod_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 208
+		}]
+	},
+	"minecraft:oak_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 107
+		}]
+	},
+	"minecraft:dispenser": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 23
+		}]
+	},
+	"minecraft:light_gray_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 160
+		}]
+	},
+	"minecraft:jungle_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 5
+		}]
+	},
+	"minecraft:double_red_sandstone_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 181
+		}]
+	},
+	"minecraft:spurce_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 183
+		}]
+	},
+	"minecraft:oak_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 107
+		}]
+	},
+	"minecraft:pink_tulip": {
+		"itermediate_bedrock_item": [{
+			"data": 7,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 38
+		}]
+	},
+	"minecraft:dropper_up_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 125
+		}]
+	},
+	"minecraft:magenta_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 160
+		}]
+	},
+	"minecraft:stone_brick_monster_egg": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 97
+		}]
+	},
+	"minecraft:detector_rail_east_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 28
+		}]
+	},
+	"minecraft:red_mushroom_block_pores_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 99
+		}]
+	},
+	"minecraft:pumpkin_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 86
+		}]
+	},
+	"minecraft:jungle_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 185
+		}]
+	},
+	"minecraft:detector_rail_ascending_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 28
+		}]
+	},
+	"minecraft:acacia_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 187
+		}]
+	},
+	"minecraft:oak_fence_gate_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 107
+		}]
+	},
+	"minecraft:stone_pressure_plate_active": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 70
+		}]
+	},
+	"minecraft:oak_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 107
+		}]
+	},
+	"minecraft:acacia_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 161
+		}]
+	},
+	"minecraft:standing_sign_block_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 63
+		}]
+	},
+	"minecraft:stone_brick_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 109
+		}]
+	},
+	"minecraft:spurce_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 183
+		}]
+	},
+	"minecraft:stone_brick_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 109
+		}]
+	},
+	"minecraft:spruce_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 158
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_east_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 149
+		}]
+	},
+	"minecraft:rail_curved_south_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 66
+		}]
+	},
+	"minecraft:orange_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 221
+		}]
+	},
+	"minecraft:brewing_stand_bottles23": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 117
+		}]
+	},
+	"minecraft:cyan_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 229
+		}]
+	},
+	"minecraft:dispenser_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 23
+		}]
+	},
+	"minecraft:oak_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 6
+		}]
+	},
+	"minecraft:white_tulip": {
+		"itermediate_bedrock_item": [{
+			"data": 6,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 38
+		}]
+	},
+	"minecraft:rose_bush_top": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 175
+		}]
+	},
+	"minecraft:purple_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 237
+		}]
+	},
+	"minecraft:birch_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 135
+		}]
+	},
+	"minecraft:dispenser_down_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 23
+		}]
+	},
+	"minecraft:rail_ascending_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 66
+		}]
+	},
+	"minecraft:jungle_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 17
+		}]
+	},
+	"minecraft:orange_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 218
+		}]
+	},
+	"minecraft:anvil_east_damaged0": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 145
+		}]
+	},
+	"minecraft:anvil_east_damaged1": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 145
+		}]
+	},
+	"minecraft:red_sandstone_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 180
+		}]
+	},
+	"minecraft:tallgrass": {
+		"itermediate_bedrock_item": [{
+			"data": 1,
+			"id": 31
+		}]
+	},
+	"minecraft:double_nether_brick_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 43
+		}]
+	},
+	"minecraft:activator_rail_ascending_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 126
+		}]
+	},
+	"minecraft:sticky_piston_down_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 29
+		}]
+	},
+	"minecraft:jacko_lantern_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 91
+		}]
+	},
+	"minecraft:flowing_water_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 8
+		}]
+	},
+	"minecraft:flowing_water_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 8
+		}]
+	},
+	"minecraft:vines_top": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 106
+		}]
+	},
+	"minecraft:lime_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 241
+		}]
+	},
+	"minecraft:iron_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 71
+		}]
+	},
+	"minecraft:end_stone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 121
+		}]
+	},
+	"minecraft:quartz_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 156
+		}]
+	},
+	"minecraft:yellow_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 241
+		}]
+	},
+	"minecraft:standing_sign_block_east_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 63
+		}]
+	},
+	"minecraft:cyan_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 236
+		}]
+	},
+	"minecraft:oak_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 107
+		}]
+	},
+	"minecraft:red_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:orange_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 35
+		}]
+	},
+	"minecraft:repeating_command_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 188
+		}]
+	},
+	"minecraft:observer_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 251
+		}]
+	},
+	"minecraft:light_blue_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:quartz_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 156
+		}]
+	},
+	"minecraft:magenta_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:command_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 137
+		}]
+	},
+	"minecraft:purple_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:chest_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 54
+		}]
+	},
+	"minecraft:stone_brick_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 44
+		}]
+	},
+	"minecraft:end_rod_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 208
+		}]
+	},
+	"minecraft:purpur_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 203
+		}]
+	},
+	"minecraft:black_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 241
+		}]
+	},
+	"minecraft:still_water_height12": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 9
+		}]
+	},
+	"minecraft:blue_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 231
+		}]
+	},
+	"minecraft:banner_block_southwest": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 176
+		}]
+	},
+	"minecraft:wooden_pressure_plate": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 72
+		}]
+	},
+	"minecraft:stone_button_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 77
+		}]
+	},
+	"minecraft:tripwire_hook_south_connected_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 131
+		}]
+	},
+	"minecraft:jukebox": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 84
+		}]
+	},
+	"minecraft:piston_head_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 34
+		}]
+	},
+	"minecraft:yellow_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_west_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_west_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_west_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_west_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 93
+		}]
+	},
+	"minecraft:furnace_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 61
+		}]
+	},
+	"minecraft:jungle_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 185
+		}]
+	},
+	"minecraft:carrots_age7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 141
+		}]
+	},
+	"minecraft:carrots_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 141
+		}]
+	},
+	"minecraft:jungle_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 18
+		}]
+	},
+	"minecraft:end_portal_frame_east_filled": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 120
+		}]
+	},
+	"minecraft:white_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:torch_up": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 50
+		}]
+	},
+	"minecraft:gray_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 227
+		}]
+	},
+	"minecraft:repeating_command_block_up_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 188
+		}]
+	},
+	"minecraft:birch_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 184
+		}]
+	},
+	"minecraft:flower_pot_cactus": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 140
+		}]
+	},
+	"minecraft:command_block_west_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 137
+		}]
+	},
+	"minecraft:glowing_redstone_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 74
+		}]
+	},
+	"minecraft:birch_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 135
+		}]
+	},
+	"minecraft:magenta_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 222
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_north_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 149
+		}]
+	},
+	"minecraft:end_rod_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 208
+		}]
+	},
+	"minecraft:gray_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:lit_furnace_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 62
+		}]
+	},
+	"minecraft:light_gray_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:sandstone_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 128
+		}]
+	},
+	"minecraft:dark_oak_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 161
+		}]
+	},
+	"minecraft:chorus_flower_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 200
+		}]
+	},
+	"minecraft:end_portal_frame_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 120
+		}]
+	},
+	"minecraft:oak_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 53
+		}]
+	},
+	"minecraft:anvil_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 145
+		}]
+	},
+	"minecraft:oak_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 107
+		}]
+	},
+	"minecraft:blue_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 231
+		}]
+	},
+	"minecraft:hardened_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 172
+		}]
+	},
+	"minecraft:pink_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 160
+		}]
+	},
+	"minecraft:cocoa_age1_east": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 127
+		}]
+	},
+	"minecraft:nether_reactor_core": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 247
+		}]
+	},
+	"minecraft:spruce_door_bottom_north_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 193
+		}]
+	},
+	"minecraft:light_blue_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 218
+		}]
+	},
+	"minecraft:spurce_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 183
+		}]
+	},
+	"minecraft:jungle_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 195
+		}]
+	},
+	"minecraft:sticky_piston_head_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 34
+		}]
+	},
+	"minecraft:activator_rail_ascending_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 126
+		}]
+	},
+	"minecraft:red_mushroom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 40
+		}]
+	},
+	"minecraft:skull_east_on_wall": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 144
+		}]
+	},
+	"minecraft:white_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 218
+		}]
+	},
+	"minecraft:flower_pot_oak_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 140
+		}]
+	},
+	"minecraft:jungle_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 195
+		}]
+	},
+	"minecraft:bed_foot_east_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 26
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_east_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 186
+		}]
+	},
+	"minecraft:stone_button_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 77
+		}]
+	},
+	"minecraft:mossy_stone_bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 98
+		}]
+	},
+	"minecraft:dropper_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 125
+		}]
+	},
+	"minecraft:brown_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 171
+		}]
+	},
+	"minecraft:lever_bottom_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 69
+		}]
+	},
+	"minecraft:dark_oak_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 5
+		}]
+	},
+	"minecraft:pumpkin_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 86
+		}]
+	},
+	"minecraft:birch_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 18
+		}]
+	},
+	"minecraft:spruce_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 193
+		}]
+	},
+	"minecraft:cyan_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 171
+		}]
+	},
+	"minecraft:oak_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 18
+		}]
+	},
+	"minecraft:redstone_comparator_active_west_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 150
+		}]
+	},
+	"minecraft:standing_sign_block_west_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 63
+		}]
+	},
+	"minecraft:stone_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 44
+		}]
+	},
+	"minecraft:stone_button_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 77
+		}]
+	},
+	"minecraft:spurce_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 183
+		}]
+	},
+	"minecraft:iron_door_top_left_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 71
+		}]
+	},
+	"minecraft:cocoa_age3_west": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 127
+		}]
+	},
+	"minecraft:redstone_torch_active_torch_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 76
+		}]
+	},
+	"minecraft:dark_iron_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 197
+		}]
+	},
+	"minecraft:dark_oak_wood_up_down": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 162
+		}]
+	},
+	"minecraft:green_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 233
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_south_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 100
+		}]
+	},
+	"minecraft:green_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 160
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_east": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 99
+		}]
+	},
+	"minecraft:birch_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 135
+		}]
+	},
+	"minecraft:banner_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 176
+		}]
+	},
+	"minecraft:gold_pressure_plate": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 147
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 186
+		}]
+	},
+	"minecraft:dark_oak_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 161
+		}]
+	},
+	"minecraft:jungle_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 6
+		}]
+	},
+	"minecraft:light_blue_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 223
+		}]
+	},
+	"minecraft:rail_curved_south_east": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 66
+		}]
+	},
+	"minecraft:birch_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 184
+		}]
+	},
+	"minecraft:brewing_stand_bottles123": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 117
+		}]
+	},
+	"minecraft:wall_mounted_sign_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 68
+		}]
+	},
+	"minecraft:sandstone_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 128
+		}]
+	},
+	"minecraft:double_tall_grass_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 175
+		}]
+	},
+	"minecraft:acacia_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 5
+		}]
+	},
+	"minecraft:oak_wood_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 53
+		}]
+	},
+	"minecraft:oak_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 107
+		}]
+	},
+	"minecraft:rail_curved_north_east": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 66
+		}]
+	},
+	"minecraft:magenta_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:spruce_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 193
+		}]
+	},
+	"minecraft:banner_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 176
+		}]
+	},
+	"minecraft:spruce_door_bottom_west_open": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 193
+		}]
+	},
+	"minecraft:birch_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 194
+		}]
+	},
+	"minecraft:red_sandstone_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 180
+		}]
+	},
+	"minecraft:observer_east": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 251
+		}]
+	},
+	"minecraft:quartz_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 44
+		}]
+	},
+	"minecraft:trapped_chest_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 146
+		}]
+	},
+	"minecraft:moss_stone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 48
+		}]
+	},
+	"minecraft:still_water_height14": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height15": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 9
+		}]
+	},
+	"minecraft:pumpkin_east_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 86
+		}]
+	},
+	"minecraft:still_water_height10": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 9
+		}]
+	},
+	"minecraft:still_water_height11": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 9
+		}]
+	},
+	"minecraft:dropper_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 125
+		}]
+	},
+	"minecraft:still_water_height13": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 9
+		}]
+	},
+	"minecraft:nether_wart_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 214
+		}]
+	},
+	"minecraft:sandstone_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 128
+		}]
+	},
+	"minecraft:acacia_wood_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 163
+		}]
+	},
+	"minecraft:green_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 218
+		}]
+	},
+	"minecraft:iron_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 71
+		}]
+	},
+	"minecraft:oak_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 107
+		}]
+	},
+	"minecraft:end_portal_frame_north_filled": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 120
+		}]
+	},
+	"minecraft:orange_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 159
+		}]
+	},
+	"minecraft:piston_head_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 34
+		}]
+	},
+	"minecraft:birch_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 194
+		}]
+	},
+	"minecraft:black_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:blue_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 237
+		}]
+	},
+	"minecraft:black_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 235
+		}]
+	},
+	"minecraft:repeating_command_block_east_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 188
+		}]
+	},
+	"minecraft:black_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:lever_bottom_east_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 69
+		}]
+	},
+	"minecraft:magenta_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 218
+		}]
+	},
+	"minecraft:purple_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_wood_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 163
+		}]
+	},
+	"minecraft:wooden_button_down_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 143
+		}]
+	},
+	"minecraft:lever_side_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 69
+		}]
+	},
+	"minecraft:acacia_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 196
+		}]
+	},
+	"minecraft:pumpkin_west_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 86
+		}]
+	},
+	"minecraft:wooden_button_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 143
+		}]
+	},
+	"minecraft:jukebox_filled": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 84
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top_south_east": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 99
+		}]
+	},
+	"minecraft:quartz_stairs_east_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 156
+		}]
+	},
+	"minecraft:oak_door_bottom_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 64
+		}]
+	},
+	"minecraft:wooden_trapdoor_east_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 96
+		}]
+	},
+	"minecraft:sticky_piston_six_sided_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 29
+		}]
+	},
+	"minecraft:acacia_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 187
+		}]
+	},
+	"minecraft:double_oak_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 157
+		}]
+	},
+	"minecraft:red_tulip": {
+		"itermediate_bedrock_item": [{
+			"data": 4,
+			"id": 38
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 38
+		}]
+	},
+	"minecraft:wooden_button_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 143
+		}]
+	},
+	"minecraft:cobblestone_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 67
+		}]
+	},
+	"minecraft:magenta_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 241
+		}]
+	},
+	"minecraft:dropper_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 125
+		}]
+	},
+	"minecraft:cyan_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:snow_height8": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 78
+		}]
+	},
+	"minecraft:sugar_canes_age15": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 83
+		}]
+	},
+	"minecraft:sand": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 12
+		}]
+	},
+	"minecraft:snow_height2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 78
+		}]
+	},
+	"minecraft:snow_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 78
+		}]
+	},
+	"minecraft:snow_height4": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 78
+		}]
+	},
+	"minecraft:snow_height5": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 78
+		}]
+	},
+	"minecraft:snow_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 78
+		}]
+	},
+	"minecraft:snow_height7": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 78
+		}]
+	},
+	"minecraft:repeating_command_block_west_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 188
+		}]
+	},
+	"minecraft:command_block_north_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 137
+		}]
+	},
+	"minecraft:end_rod_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 208
+		}]
+	},
+	"minecraft:end_portal_frame_south_filled": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 120
+		}]
+	},
+	"minecraft:chain_command_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 189
+		}]
+	},
+	"minecraft:stone_brick_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 109
+		}]
+	},
+	"minecraft:acacia_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 163
+		}]
+	},
+	"minecraft:polished_andesite": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 1
+		}]
+	},
+	"minecraft:bone_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 216
+		}]
+	},
+	"minecraft:iron_trapdoor_north_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 167
+		}]
+	},
+	"minecraft:oak_door_top_left": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 64
+		}]
+	},
+	"minecraft:red_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:banner_block_south_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 176
+		}]
+	},
+	"minecraft:rail_ascending_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 66
+		}]
+	},
+	"minecraft:powered_rail_ascending_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 27
+		}]
+	},
+	"minecraft:nether_wart_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 115
+		}]
+	},
+	"minecraft:nether_wart_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 115
+		}]
+	},
+	"minecraft:nether_wart_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 115
+		}]
+	},
+	"minecraft:purple_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_south_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 186
+		}]
+	},
+	"minecraft:powered_rail_east_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 27
+		}]
+	},
+	"minecraft:blue_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 171
+		}]
+	},
+	"minecraft:white_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 220
+		}]
+	},
+	"minecraft:purpur_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 203
+		}]
+	},
+	"minecraft:brick_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 44
+		}]
+	},
+	"minecraft:light_gray_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:sticky_piston_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 29
+		}]
+	},
+	"minecraft:double_tall_grass_top": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 175
+		}]
+	},
+	"minecraft:cyan_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 229
+		}]
+	},
+	"minecraft:sticky_piston_up_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 29
+		}]
+	},
+	"minecraft:lever_side_west": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 69
+		}]
+	},
+	"minecraft:acacia_fence_gate_east_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 187
+		}]
+	},
+	"minecraft:brown_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 35
+		}]
+	},
+	"minecraft:nether_brick_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 114
+		}]
+	},
+	"minecraft:black_glazed_terracotta_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 235
+		}]
+	},
+	"minecraft:jungle_leaves_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 18
+		}]
+	},
+	"minecraft:activator_rail_ascending_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 126
+		}]
+	},
+	"minecraft:chest_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 54
+		}]
+	},
+	"minecraft:oak_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 17
+		}]
+	},
+	"minecraft:stone_button_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 77
+		}]
+	},
+	"minecraft:nether_quartz_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 153
+		}]
+	},
+	"minecraft:yellow_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:acacia_sapling_growable": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 6
+		}]
+	},
+	"minecraft:blue_shulker_box_east": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 218
+		}]
+	},
+	"minecraft:iron_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 71
+		}]
+	},
+	"minecraft:piston_six_sided_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 33
+		}]
+	},
+	"minecraft:tripwire_detached_suspended_activated_disarmed": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 132
+		}]
+	},
+	"minecraft:acacia_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 196
+		}]
+	},
+	"minecraft:flower_pot_fern": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 140
+		}]
+	},
+	"minecraft:acacia_wood_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 162
+		}]
+	},
+	"minecraft:still_water_height6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 9
+		}]
+	},
+	"minecraft:birch_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 184
+		}]
+	},
+	"minecraft:dropper_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 125
+		}]
+	},
+	"minecraft:cobblestone_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 44
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 164
+		}]
+	},
+	"minecraft:anvil_west_damaged0": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 145
+		}]
+	},
+	"minecraft:anvil_west_damaged1": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 145
+		}]
+	},
+	"minecraft:pink_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 218
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 186
+		}]
+	},
+	"minecraft:oak_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 64
+		}]
+	},
+	"minecraft:oak_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 53
+		}]
+	},
+	"minecraft:brewing_stand_bottles1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 117
+		}]
+	},
+	"minecraft:brewing_stand_bottles2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 117
+		}]
+	},
+	"minecraft:brewing_stand_bottles3": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 117
+		}]
+	},
+	"minecraft:spurce_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 183
+		}]
+	},
+	"minecraft:acacia_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 196
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 197
+		}]
+	},
+	"minecraft:gray_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:brick_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 108
+		}]
+	},
+	"minecraft:jungle_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 195
+		}]
+	},
+	"minecraft:red_mushroom_block_cap_top_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 100
+		}]
+	},
+	"minecraft:wall_mounted_sign_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 68
+		}]
+	},
+	"minecraft:cyan_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 218
+		}]
+	},
+	"minecraft:green_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 236
+		}]
+	},
+	"minecraft:yellow_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 35
+		}]
+	},
+	"minecraft:birch_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 194
+		}]
+	},
+	"minecraft:potatoes_age3": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age2": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age1": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age0": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age5": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 142
+		}]
+	},
+	"minecraft:potatoes_age4": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 142
+		}]
+	},
+	"minecraft:jungle_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 136
+		}]
+	},
+	"minecraft:acacia_fence_gate_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 187
+		}]
+	},
+	"minecraft:oak_fence_gate_north_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 107
+		}]
+	},
+	"minecraft:acacia_fence_gate_south_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 187
+		}]
+	},
+	"minecraft:double_acacia_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 157
+		}]
+	},
+	"minecraft:flower_pot_empty": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 140
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_east": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 149
+		}]
+	},
+	"minecraft:dark_iron_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 197
+		}]
+	},
+	"minecraft:skull_on_ground": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 144
+		}]
+	},
+	"minecraft:red_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:wooden_trapdoor_east_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 96
+		}]
+	},
+	"minecraft:glowing_obsidian": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 246
+		}]
+	},
+	"minecraft:powered_rail_ascending_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 27
+		}]
+	},
+	"minecraft:oak_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 6
+		}]
+	},
+	"minecraft:wooden_button_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 143
+		}]
+	},
+	"minecraft:detector_rail_ascending_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 28
+		}]
+	},
+	"minecraft:redstone_torch_active_torch_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 76
+		}]
+	},
+	"minecraft:red_mushroom_block_stem_all_sides": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 100
+		}]
+	},
+	"minecraft:snow_height1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 78
+		}]
+	},
+	"minecraft:piston_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 33
+		}]
+	},
+	"minecraft:acacia_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 196
+		}]
+	},
+	"minecraft:cake_block_missing6": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 92
+		}]
+	},
+	"minecraft:cyan_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 241
+		}]
+	},
+	"minecraft:melon_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 103
+		}]
+	},
+	"minecraft:bed_foot_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 26
+		}]
+	},
+	"minecraft:wooden_button_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 143
+		}]
+	},
+	"minecraft:tnt": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 46
+		}]
+	},
+	"minecraft:nether_brick_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 114
+		}]
+	},
+	"minecraft:banner_block_southeast": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 176
+		}]
+	},
+	"minecraft:orange_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 237
+		}]
+	},
+	"minecraft:bed_foot_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 26
+		}]
+	},
+	"minecraft:jungle_fence_gate_north_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 185
+		}]
+	},
+	"minecraft:iron_trapdoor_east_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 167
+		}]
+	},
+	"minecraft:sea_lantern": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 169
+		}]
+	},
+	"minecraft:tripwire_attached_suspendedactivated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 132
+		}]
+	},
+	"minecraft:brown_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:bed_head_south": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 26
+		}]
+	},
+	"minecraft:air": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 0
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 0
+		}]
+	},
+	"minecraft:jungle_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 158
+		}]
+	},
+	"minecraft:brick_stairs": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 108
+		}]
+	},
+	"minecraft:banner_block_northwest": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 176
+		}]
+	},
+	"minecraft:brown_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 218
+		}]
+	},
+	"minecraft:tile_double_quartz_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 43
+		}]
+	},
+	"minecraft:netherrack": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 87
+		}]
+	},
+	"minecraft:nether_wart_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 115
+		}]
+	},
+	"minecraft:jacko_lantern_east_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 91
+		}]
+	},
+	"minecraft:jacko_lantern_south_faceless": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 91
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 186
+		}]
+	},
+	"minecraft:redstone_torch_inactive_torch_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 75
+		}]
+	},
+	"minecraft:bookshelf": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 47
+		}]
+	},
+	"minecraft:wall_mounted_banner_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 177
+		}]
+	},
+	"minecraft:bricks": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 45
+		}]
+	},
+	"minecraft:white_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 236
+		}]
+	},
+	"minecraft:red_shulker_box_up": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 218
+		}]
+	},
+	"minecraft:cocoa_age3_south": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 127
+		}]
+	},
+	"minecraft:cobblestone_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 67
+		}]
+	},
+	"minecraft:green_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 241
+		}]
+	},
+	"minecraft:blue_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 160
+		}]
+	},
+	"minecraft:purpur_stairs_west_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 203
+		}]
+	},
+	"minecraft:bed_foot_south_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 26
+		}]
+	},
+	"minecraft:jungle_fence_gate_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 185
+		}]
+	},
+	"minecraft:tripwire_hook_west_connected_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 131
+		}]
+	},
+	"minecraft:repeating_command_block_down_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 188
+		}]
+	},
+	"minecraft:standing_sign_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 63
+		}]
+	},
+	"minecraft:gray_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 237
+		}]
+	},
+	"minecraft:command_block_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 137
+		}]
+	},
+	"minecraft:redstone_comparator_active_south_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 150
+		}]
+	},
+	"minecraft:lime_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:sticky_piston_west_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 29
+		}]
+	},
+	"minecraft:standing_sign_block_east_northeast": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 63
+		}]
+	},
+	"minecraft:red_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 237
+		}]
+	},
+	"minecraft:lime_shulker_box_south": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 218
+		}]
+	},
+	"minecraft:iron_door_bottom_east_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 71
+		}]
+	},
+	"minecraft:spruce_door_top_right": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 193
+		}]
+	},
+	"minecraft:dispenser_up": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 23
+		}]
+	},
+	"minecraft:dark_prismarine": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 168
+		}]
+	},
+	"minecraft:still_lava_source": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 11
+		}]
+	},
+	"minecraft:chorus_plant": {
+		"itermediate_bedrock_block": [{
+			"data": -1,
+			"id": 240
+		}]
+	},
+	"minecraft:structure_block": {
+		"itermediate_bedrock_block": [{
+			"PC_comment_id": 255,
+			"data": 0,
+			"id": 0
+		}]
+	},
+	"minecraft:brick_stairs_east": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 108
+		}]
+	},
+	"minecraft:black_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 235
+		}]
+	},
+	"minecraft:spruce_leaves_no_decay_check_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 18
+		}]
+	},
+	"minecraft:jungle_fence_gate_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 185
+		}]
+	},
+	"minecraft:dandelion": {
+		"itermediate_bedrock_item": [{
+			"data": 0,
+			"id": 37
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 37
+		}]
+	},
+	"minecraft:vines_south": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 106
+		}]
+	},
+	"minecraft:dropper_north_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 125
+		}]
+	},
+	"minecraft:birch_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 158
+		}]
+	},
+	"minecraft:light_gray_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 237
+		}]
+	},
+	"minecraft:yellow_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 224
+		}]
+	},
+	"minecraft:yellow_shulker_box_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 218
+		}]
+	},
+	"minecraft:lime_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 171
+		}]
+	},
+	"minecraft:iron_trapdoor_east_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 167
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_west_closed_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 186
+		}]
+	},
+	"minecraft:dark_oak_leaves_no_decay": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 161
+		}]
+	},
+	"minecraft:spruce_door_bottom_west_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 193
+		}]
+	},
+	"minecraft:redstone_comparator_active_south_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 150
+		}]
+	},
+	"minecraft:diorite": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 1
+		}]
+	},
+	"minecraft:dark_oak_wood_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 158
+		}]
+	},
+	"minecraft:piston_east_extended": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 33
+		}]
+	},
+	"minecraft:torch_south": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 50
+		}]
+	},
+	"minecraft:redstone_comparator_active_north_subtractive_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 150
+		}]
+	},
+	"minecraft:light_gray_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 218
+		}]
+	},
+	"minecraft:detector_rail_ascending_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 28
+		}]
+	},
+	"minecraft:bed_head_north": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 26
+		}]
+	},
+	"minecraft:birch_door_bottom_south_closed": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 194
+		}]
+	},
+	"minecraft:red_nether_brick": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 215
+		}]
+	},
+	"minecraft:acacia_wood_stairs_north": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 163
+		}]
+	},
+	"minecraft:chorus_flower_fully_grown": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 200
+		}]
+	},
+	"minecraft:farmland_hydrated": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 60
+		}]
+	},
+	"minecraft:end_portal_frame_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 120
+		}]
+	},
+	"minecraft:spruce_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 85
+		}]
+	},
+	"minecraft:tripwire_hook_east": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 131
+		}]
+	},
+	"minecraft:stone_brick_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 109
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_north_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 186
+		}]
+	},
+	"minecraft:command_block_south_conditional": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 137
+		}]
+	},
+	"minecraft:frosted_ice": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 207
+		}]
+	},
+	"minecraft:red_sandstone_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 180
+		}]
+	},
+	"minecraft:activator_rail_north_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 126
+		}]
+	},
+	"minecraft:purple_concrete": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 236
+		}]
+	},
+	"minecraft:oak_fence_gate_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 107
+		}]
+	},
+	"minecraft:cocoa_age2_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 127
+		}]
+	},
+	"minecraft:repeating_command_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 188
+		}]
+	},
+	"minecraft:purple_glazed_terracotta_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 219
+		}]
+	},
+	"minecraft:light_blue_carpet": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 171
+		}]
+	},
+	"minecraft:emerald_block": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 133
+		}]
+	},
+	"minecraft:light_blue_wool": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 35
+		}]
+	},
+	"minecraft:spruce_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 17
+		}]
+	},
+	"minecraft:purpur_pillar": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 201
+		}]
+	},
+	"minecraft:jungle_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 136
+		}]
+	},
+	"minecraft:chain_command_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 189
+		}]
+	},
+	"minecraft:tall_grass": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 31
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 164
+		}]
+	},
+	"minecraft:iron_door_bottom_east_open": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 71
+		}]
+	},
+	"minecraft:powered_rail_ascending_west": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 27
+		}]
+	},
+	"minecraft:wooden_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 44
+		}]
+	},
+	"minecraft:black_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 218
+		}]
+	},
+	"minecraft:light_gray_glazed_terracotta_north": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 228
+		}]
+	},
+	"minecraft:sticky_piston_head_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 34
+		}]
+	},
+	"minecraft:piston_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 33
+		}]
+	},
+	"minecraft:black_stained_glass_pane": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 160
+		}]
+	},
+	"minecraft:activator_rail_ascending_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 126
+		}]
+	},
+	"minecraft:stone_button_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 77
+		}]
+	},
+	"minecraft:nether_brick_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 114
+		}]
+	},
+	"minecraft:purple_shulker_box_west": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 218
+		}]
+	},
+	"minecraft:gray_stained_clay": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 159
+		}]
+	},
+	"minecraft:sandstone_slab_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 44
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_north_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 149
+		}]
+	},
+	"minecraft:redstone_comparator_active_north_powered": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 150
+		}]
+	},
+	"minecraft:flowing_lava_source": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 10
+		}]
+	},
+	"minecraft:iron_trapdoor_south_open_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 167
+		}]
+	},
+	"minecraft:green_concrete_powder": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 237
+		}]
+	},
+	"minecraft:sandstone": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 24
+		}]
+	},
+	"minecraft:monster_spawner": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 52
+		}]
+	},
+	"minecraft:cake_block_full": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 92
+		}]
+	},
+	"minecraft:gray_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 227
+		}]
+	},
+	"minecraft:bed_foot_west_occupied": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 26
+		}]
+	},
+	"minecraft:activator_rail_ascending_east_active": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 126
+		}]
+	},
+	"minecraft:wall_mounted_banner_block_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 177
+		}]
+	},
+	"minecraft:vines_north": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 106
+		}]
+	},
+	"minecraft:spruce_sapling": {
+		"itermediate_bedrock_item": [{
+			"data": 1,
+			"id": 6
+		}],
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 6
+		}]
+	},
+	"minecraft:dark_oak_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 186
+		}]
+	},
+	"minecraft:hopper_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 154
+		}]
+	},
+	"minecraft:jungle_door_bottom_south_open": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 195
+		}]
+	},
+	"minecraft:iron_trapdoor_south_open_top": {
+		"itermediate_bedrock_block": [{
+			"data": 15,
+			"id": 167
+		}]
+	},
+	"minecraft:dispenser_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 23
+		}]
+	},
+	"minecraft:command_block_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 137
+		}]
+	},
+	"minecraft:redstone_torch_inactive_torch_east": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 75
+		}]
+	},
+	"minecraft:lime_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 225
+		}]
+	},
+	"minecraft:ladder_west": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 65
+		}]
+	},
+	"minecraft:orange_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 241
+		}]
+	},
+	"minecraft:lever_side_south_active": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 69
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_north_delay4": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 149
+		}]
+	},
+	"minecraft:light_gray_glazed_terracotta_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 228
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_north_delay1": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_north_delay3": {
+		"itermediate_bedrock_block": [{
+			"data": 8,
+			"id": 93
+		}]
+	},
+	"minecraft:redstone_repeater_inactive_north_delay2": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 93
+		}]
+	},
+	"minecraft:iron_trapdoor_south_closed_top": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 167
+		}]
+	},
+	"minecraft:activator_rail_east_west_active": {
+		"itermediate_bedrock_block": [{
+			"data": 9,
+			"id": 126
+		}]
+	},
+	"minecraft:grass_path": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 198
+		}]
+	},
+	"minecraft:rail_north_south": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 66
+		}]
+	},
+	"minecraft:birch_wood_plank": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 5
+		}]
+	},
+	"minecraft:dark_oak_wood": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 162
+		}]
+	},
+	"minecraft:piston_head_down": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 34
+		}]
+	},
+	"minecraft:nether_brick_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 114
+		}]
+	},
+	"minecraft:acacia_wood_stairs_south_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 163
+		}]
+	},
+	"minecraft:cobblestone_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 67
+		}]
+	},
+	"minecraft:falling_lava_height3": {
+		"itermediate_bedrock_block": [{
+			"data": 11,
+			"id": 10
+		}]
+	},
+	"minecraft:dark_oak_wood_bark": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 162
+		}]
+	},
+	"minecraft:dispenser_south": {
+		"itermediate_bedrock_block": [{
+			"data": 3,
+			"id": 23
+		}]
+	},
+	"minecraft:purple_stained_glass": {
+		"itermediate_bedrock_block": [{
+			"data": 10,
+			"id": 241
+		}]
+	},
+	"minecraft:acacia_fence_gate_west_open_activated": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 187
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_south": {
+		"itermediate_bedrock_block": [{
+			"data": 2,
+			"id": 164
+		}]
+	},
+	"minecraft:dark_oak_wood_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 164
+		}]
+	},
+	"minecraft:acacia_fence": {
+		"itermediate_bedrock_block": [{
+			"data": 4,
+			"id": 85
+		}]
+	},
+	"minecraft:spruce_leaves": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 18
+		}]
+	},
+	"minecraft:redstone_ore": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 73
+		}]
+	},
+	"minecraft:brown_mushroom_block_cap_top": {
+		"itermediate_bedrock_block": [{
+			"data": 5,
+			"id": 99
+		}]
+	},
+	"minecraft:lilac_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 175
+		}]
+	},
+	"minecraft:birch_wood_stairs_north_upside_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 135
+		}]
+	},
+	"minecraft:obsidian": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 49
+		}]
+	},
+	"minecraft:glass": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 20
+		}]
+	},
+	"minecraft:double_spruce_wood_slab": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 157
+		}]
+	},
+	"minecraft:wooden_trapdoor_west_closed_bottom": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 96
+		}]
+	},
+	"minecraft:cocoa_age2_west": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 127
+		}]
+	},
+	"minecraft:redstone_comparator_inactive_south_subtractive": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 149
+		}]
+	},
+	"minecraft:cactus_age15": {
+		"itermediate_bedrock_block": [{
+			"data": 14,
+			"id": 81
+		}]
+	},
+	"minecraft:flower_pot_dark_oak_sapling": {
+		"itermediate_bedrock_block": [{
+			"data": 13,
+			"id": 140
+		}]
+	},
+	"minecraft:red_sandstone_stairs_west": {
+		"itermediate_bedrock_block": [{
+			"data": 1,
+			"id": 180
+		}]
+	},
+	"minecraft:gray_shulker_box_down": {
+		"itermediate_bedrock_block": [{
+			"data": 7,
+			"id": 218
+		}]
+	},
+	"minecraft:clay": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 82
+		}]
+	},
+	"minecraft:sticky_piston_six_sided": {
+		"itermediate_bedrock_block": [{
+			"data": 6,
+			"id": 29
+		}]
+	},
+	"minecraft:oak_wood_slab_top": {
+		"itermediate_bedrock_block": [{
+			"data": 0,
+			"id": 158
+		}]
+	},
+	"minecraft:standing_sign_block_east": {
+		"itermediate_bedrock_block": [{
+			"data": 12,
+			"id": 63
+		}]
+	}
+}

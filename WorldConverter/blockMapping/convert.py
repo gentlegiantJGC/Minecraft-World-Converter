@@ -1,4 +1,3 @@
-print 'reloading blockMapping.convert'
 import json
 import directories
 blockToIntermediate = {}

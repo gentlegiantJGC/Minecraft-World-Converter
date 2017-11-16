@@ -1,11 +1,10 @@
-print 'reloading tileEntityMapping.convert'
 import json
 import directories
 from WorldConverter.itemMapping.convert import convertItem
 blockEntityToIntermediate = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/_intermediate.json'))
 
 blockEntityFromIntermediate = {}
-blockEntityFromIntermediate['PC'] = {}
+blockEntityFromIntermediate['PC'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_java.json'))
 blockEntityFromIntermediate['PE'] = json.load(open(directories.getFiltersDir()+'/WorldConverter/tileEntityMapping/intermediate_bedrock.json'))
 
 from pymclevel import TAG_List, TAG_Byte, TAG_Int, TAG_Compound, TAG_Short, TAG_Double, TAG_String, TAG_Float

@@ -1,4 +1,3 @@
-print 'reloading WorldConverter'
 from blockMapping.convert import convertBlock
 from tileEntityMapping.convert import convertBlockEntity
 from tileEntityMapping.create import createBlockEntity

@@ -1,1 +1,0 @@
-print 'reloading blockMapping'

@@ -25,6 +25,7 @@ requiresBlockEntity['PC'] = []
 
 def perform(level, box, options):
 	import WorldConverter
+	reload(WorldConverter)
 
 	answer = None
 	try:
@@ -78,7 +79,9 @@ def perform(level, box, options):
 		chunksDoneList = []
 		chunksDonePath = None
 	
+	# level.showProgress("Processed 0 chunks of {}".format(len(list(levelOld.allChunks))),)
 	
+	# def convertWorld
 	chunksDone = 0
 	import time
 	t = time.time()
@@ -106,8 +109,11 @@ def perform(level, box, options):
 			# except:
 				# pass
 			chunk.TileEntities.append(copy.deepcopy(e))
+		'''
+		copying entities to bedrock seems to cause issues so removed this code until a fix is found
 		for e in chunkOld.Entities:
 			chunk.Entities.append(copy.deepcopy(e))
+		'''
 			# chunk.TileEntities = copy.deepcopy(chunkOld.TileEntities)
 			# chunk.Entities = copy.deepcopy(chunkOld.Entities)
 		#else:
@@ -190,7 +196,7 @@ def perform(level, box, options):
 				else:
 					array = np.ones(256)
 			elif convertFrom == 'PE':
-				array = fromstring(chunkOld.Biomes.tostring(), 'uint8')
+				array = np.fromstring(chunkOld.Biomes.tostring(), 'uint8')
 			if convertTo == 'PC':
 				if chunk.root_tag and 'Level' in chunk.root_tag.keys() and 'Biomes' in chunk.root_tag["Level"].keys():
 					chunk.root_tag["Level"]["Biomes"].value = array
@@ -206,7 +212,7 @@ def perform(level, box, options):
 		
 		
 		
-		chunk.dirty = True
+		chunk.chunkChanged()
 		chunksDone += 1
 		print '{}/{}'.format(chunksDone,len(list(levelOld.allChunks)))
 		if chunksDone % options["Break Every"] == options["Break Every"] - 1:
@@ -214,6 +220,13 @@ def perform(level, box, options):
 	if skippedBlocks != []:
 		WorldConverter.bugReport(submitThis='skippedBlocks:{}'.format(skippedBlocks))
 		# print skippedBlocks
+		
+		
+	# for _ in levelNew.saveInPlaceGen():
+		# pass
+		
+		
+		
 	levelOld.close()
 	print time.time() - t
 	if chunksDonePath is not None:
