@@ -1,0 +1,39 @@
+import json
+def run():
+	f = open(r"C:\Users\james_000\Documents\MCEdit\Filters\WorldConverter\peItem2Numerical.txt")
+	from collections import OrderedDict
+	items = OrderedDict()
+	lines = list(f.readlines())
+	for n in range(len(lines)):
+		line = lines[n].replace('\r','').replace('\n','')
+		if not line.startswith(' '):
+			nameID = line.split(' ')[0]
+			numID = int(line.split(' ')[1])
+			data = 0
+			try:
+				if not lines[n+1].startswith(' '):
+					items[nameID] = {}
+					items[nameID]['id'] = numID
+					items[nameID]['data'] = data
+			except:
+				items[nameID] = {}
+				items[nameID]['id'] = numID
+				items[nameID]['data'] = data
+			previousStr = nameID
+			previousNum = numID
+			continue
+		else:
+			nameID = line.split(' ')[1]+'_'+previousStr
+			numID = previousNum
+			data = int(line.split(' ')[2])
+		if nameID in items:
+			raise Exception(nameID)
+		items[nameID] = {}
+		items[nameID]['id'] = numID
+		items[nameID]['data'] = data
+	return items
+	
+items = run()
+f = open(r"C:\Users\james_000\Documents\MCEdit\Filters\WorldConverter\items.json",'w')
+f.write(json.dumps(items))
+f.close()

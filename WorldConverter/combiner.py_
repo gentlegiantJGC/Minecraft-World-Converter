@@ -1,0 +1,23 @@
+import json
+combined = {}
+bmi2j = json.load(open(r"blockMapping\intermediate_bedrock.json"))
+for intermediateID in bmi2j:
+	if intermediateID not in combined:
+		combined[intermediateID] = {}
+	if 'itermediate_bedrock_block' not in combined[intermediateID]:
+		combined[intermediateID]['itermediate_bedrock_block'] = []
+	combined[intermediateID]['itermediate_bedrock_block'].append(bmi2j[intermediateID])
+imi2j = json.load(open(r"itemMapping\intermediate_bedrock.json"))
+for intermediateID in imi2j:
+	if intermediateID not in combined:
+		combined[intermediateID] = {}
+	if 'itermediate_bedrock_item' not in combined[intermediateID]:
+		combined[intermediateID]['itermediate_bedrock_item'] = []
+	combined[intermediateID]['itermediate_bedrock_item'].append(imi2j[intermediateID])
+
+
+
+
+f = open('combined.json','w')
+f.write(json.dumps(combined))
+f.close()

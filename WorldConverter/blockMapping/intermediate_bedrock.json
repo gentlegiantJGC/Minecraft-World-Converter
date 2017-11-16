@@ -1071,6 +1071,14 @@
 		"id": 40,
 		"data": 0
 	},
+	"minecraft:gold_block": {
+		"id": 41,
+		"data": 0
+	},
+	"minecraft:iron_block": {
+		"id": 42,
+		"data": 0
+	},
 	"minecraft:double_stone_slab": {
 		"id": 43,
 		"data": 0
@@ -1114,14 +1122,6 @@
 	"minecraft:double_smooth_sandstone_slab": {
 		"id": 43,
 		"data": 9
-	},
-	"minecraft:gold_block": {
-		"id": 41,
-		"data": 0
-	},
-	"minecraft:iron_block": {
-		"id": 42,
-		"data": 0
 	},
 	"minecraft:stone_slab_bottom": {
 		"id": 44,
