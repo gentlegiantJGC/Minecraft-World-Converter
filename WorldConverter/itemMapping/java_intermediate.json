@@ -52,41 +52,5 @@
 		"13": {"intermediateID": "minecraft:poppy"},
 		"14": {"intermediateID": "minecraft:poppy"},
 		"15": {"intermediateID": "minecraft:poppy"}
-	},
-	"minecraft:deadbush": {
-		"0": {"intermediateID": "minecraft:deadbush"},
-		"1": {"intermediateID": "minecraft:deadbush"},
-		"2": {"intermediateID": "minecraft:deadbush"},
-		"3": {"intermediateID": "minecraft:deadbush"},
-		"4": {"intermediateID": "minecraft:deadbush"},
-		"5": {"intermediateID": "minecraft:deadbush"},
-		"6": {"intermediateID": "minecraft:deadbush"},
-		"7": {"intermediateID": "minecraft:deadbush"},
-		"8": {"intermediateID": "minecraft:deadbush"},
-		"9": {"intermediateID": "minecraft:deadbush"},
-		"10": {"intermediateID": "minecraft:deadbush"},
-		"11": {"intermediateID": "minecraft:deadbush"},
-		"12": {"intermediateID": "minecraft:deadbush"},
-		"13": {"intermediateID": "minecraft:deadbush"},
-		"14": {"intermediateID": "minecraft:deadbush"},
-		"15": {"intermediateID": "minecraft:deadbush"}
-	},
-	"minecraft:cactus": {
-		"0": {"intermediateID": "minecraft:cactus"},
-		"1": {"intermediateID": "minecraft:cactus"},
-		"2": {"intermediateID": "minecraft:cactus"},
-		"3": {"intermediateID": "minecraft:cactus"},
-		"4": {"intermediateID": "minecraft:cactus"},
-		"5": {"intermediateID": "minecraft:cactus"},
-		"6": {"intermediateID": "minecraft:cactus"},
-		"7": {"intermediateID": "minecraft:cactus"},
-		"8": {"intermediateID": "minecraft:cactus"},
-		"9": {"intermediateID": "minecraft:cactus"},
-		"10": {"intermediateID": "minecraft:cactus"},
-		"11": {"intermediateID": "minecraft:cactus"},
-		"12": {"intermediateID": "minecraft:cactus"},
-		"13": {"intermediateID": "minecraft:cactus"},
-		"14": {"intermediateID": "minecraft:cactus"},
-		"15": {"intermediateID": "minecraft:cactus"}
 	}
 }
